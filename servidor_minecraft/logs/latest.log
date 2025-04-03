@@ -329,3 +329,32 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_91
 [20:44:47] [Server thread/INFO]: SrLipord lost connection: Disconnected
 [20:44:47] [Server thread/INFO]: SrLipord left the game
 [20:45:47] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:50:05] [Server thread/INFO]: SrLipord[/127.202.136.174:44669] logged in with entity id 3623 at (-843.8716541555164, 164.0, 1602.69749159027)
+[20:50:06] [Server thread/INFO]: SrLipord joined the game
+[20:50:06] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[20:50:36] [Server thread/INFO]: SrLipord lost connection: Timed out
+[20:50:36] [Server thread/INFO]: SrLipord left the game
+[20:50:36] [Server thread/WARN]: handleDisconnection() called twice
+[20:50:52] [Server thread/INFO]: SrLipord[/127.202.136.174:34097] logged in with entity id 3828 at (-843.1277220216488, 165.0, 1600.2006812978918)
+[20:50:52] [Server thread/INFO]: SrLipord joined the game
+[20:50:52] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[20:51:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@22408ab0[id=1f6a3363-fcb2-364b-b8d9-92097649b9e5,name=Gathooo,properties={}] lost connection: This server requires Fabric API installed on your client!
+The following registry entry namespaces may be related:
+
+brigadier
+creativecore
+customizableelytra
+diagonalfences
+And 8 more...
+
+Contact the server's administrator for more information!
+[20:51:02] [Server thread/WARN]: handleDisconnection() called twice
+[20:52:06] [Server thread/INFO]: SrLipord lost connection: Disconnected
+[20:52:06] [Server thread/INFO]: SrLipord left the game
+[20:52:14] [Server thread/INFO]: SrLipord[/127.202.136.174:51079] logged in with entity id 4102 at (-844.0871023967063, 165.0, 1600.7827599408195)
+[20:52:14] [Server thread/INFO]: SrLipord joined the game
+[20:52:14] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[20:52:22] [Server thread/WARN]: SrLipord moved too quickly! -0.5026895931376885,-10.186244780021696,1.757269827426171
+[20:52:43] [Server thread/INFO]: SrLipord lost connection: Disconnected
+[20:52:43] [Server thread/INFO]: SrLipord left the game
+[20:53:43] [Server thread/INFO]: Server empty for 60 seconds, pausing
