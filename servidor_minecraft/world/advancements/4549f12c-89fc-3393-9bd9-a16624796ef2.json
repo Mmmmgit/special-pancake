@@ -1,456 +1,143 @@
 {
-  "minecraft:recipes/combat/diamond_leggings": {
-    "criteria": {
-      "has_diamond": "2025-04-03 21:13:45 +0000"
-    },
-    "done": true
-  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-03 21:14:37 +0000"
+      "log_spam_fixer": "2025-04-03 21:40:28 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-03 21:14:37 +0000"
+      "log_spam_fixer": "2025-04-03 21:40:28 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/tools/golden_axe": {
-    "criteria": {
-      "has_gold_ingot": "2025-04-03 21:14:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_pickaxe": {
-    "criteria": {
-      "has_gold_ingot": "2025-04-03 21:14:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_sword": {
-    "criteria": {
-      "has_diamond": "2025-04-03 21:13:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_diamond": "2025-04-03 21:13:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget": {
-    "criteria": {
-      "has_gold_ingot": "2025-04-03 21:14:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/golden_shovel": {
-    "criteria": {
-      "has_gold_ingot": "2025-04-03 21:14:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_chestplate": {
-    "criteria": {
-      "has_diamond": "2025-04-03 21:13:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2025-04-03 21:14:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/golden_apple": {
-    "criteria": {
-      "has_gold_ingot": "2025-04-03 21:14:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2025-04-03 21:14:45 +0000"
-    },
-    "done": true
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-03 21:14:37 +0000"
+      "log_spam_fixer": "2025-04-03 21:40:28 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/combat/golden_boots": {
-    "criteria": {
-      "has_gold_ingot": "2025-04-03 21:14:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2025-04-03 21:14:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_helmet": {
-    "criteria": {
-      "has_gold_ingot": "2025-04-03 21:14:45 +0000"
-    },
-    "done": true
-  },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-04-03 21:14:49 +0000",
-      "log_spam_fixer": "2025-04-03 21:14:37 +0000"
+      "requirement": "2025-04-03 21:40:38 +0000",
+      "log_spam_fixer": "2025-04-03 21:40:28 +0000"
     },
     "done": true
   },
   "repurposed_structures:root": {
     "criteria": {
-      "always": "2025-04-03 21:10:36 +0000"
+      "always": "2025-04-03 21:36:27 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2025-04-03 21:10:36 +0000"
+      "unlock_right_away": "2025-04-03 21:36:27 +0000"
     },
     "done": true
   },
   "senti:register": {
     "criteria": {
-      "requirement": "2025-04-03 21:10:36 +0000"
+      "requirement": "2025-04-03 21:36:27 +0000"
     },
     "done": true
   },
   "backpacks:tree/root": {
     "criteria": {
-      "requirement": "2025-04-03 21:10:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_boat": {
-    "criteria": {
-      "in_water": "2025-04-03 21:11:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_pickaxe": {
-    "criteria": {
-      "has_diamond": "2025-04-03 21:13:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_bed": {
-    "criteria": {
-      "has_yellow_wool": "2025-04-03 21:14:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_chestplate": {
-    "criteria": {
-      "has_gold_ingot": "2025-04-03 21:14:45 +0000"
+      "requirement": "2025-04-03 21:36:27 +0000"
     },
     "done": true
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-03 21:14:37 +0000"
+      "log_spam_fixer": "2025-04-03 21:40:28 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/transportation/bamboo_raft": {
-    "criteria": {
-      "in_water": "2025-04-03 21:11:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2025-04-03 21:11:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2025-04-03 21:14:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_redstone": "2025-04-03 21:14:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-04-03 21:13:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2025-04-03 21:11:01 +0000"
-    },
-    "done": true
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-03 21:14:37 +0000"
+      "log_spam_fixer": "2025-04-03 21:40:28 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/tools/diamond_hoe": {
-    "criteria": {
-      "has_diamond": "2025-04-03 21:13:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2025-04-03 21:13:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2025-04-03 21:11:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
-    "criteria": {
-      "has_gold_ingot": "2025-04-03 21:14:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2025-04-03 21:14:45 +0000"
-    },
-    "done": true
-  },
   "incendium:technical/new_player": {
     "criteria": {
-      "requirement": "2025-04-03 21:10:36 +0000"
+      "requirement": "2025-04-03 21:36:27 +0000"
     },
     "done": true
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-03 21:14:37 +0000"
+      "log_spam_fixer": "2025-04-03 21:40:28 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-03 21:14:37 +0000"
+      "log_spam_fixer": "2025-04-03 21:40:28 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/combat/diamond_boots": {
-    "criteria": {
-      "has_diamond": "2025-04-03 21:13:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2025-04-03 21:11:01 +0000"
-    },
-    "done": true
-  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
-      "log_spam_fixer": "2025-04-03 21:10:37 +0000"
+      "log_spam_fixer": "2025-04-03 21:36:28 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-03 21:14:37 +0000"
+      "log_spam_fixer": "2025-04-03 21:40:28 +0000"
     },
     "done": false
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
-      "log_spam_fixer": "2025-04-03 21:10:37 +0000"
+      "log_spam_fixer": "2025-04-03 21:36:28 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2025-04-03 21:13:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_helmet": {
-    "criteria": {
-      "has_diamond": "2025-04-03 21:13:45 +0000"
-    },
-    "done": true
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-03 21:14:37 +0000"
+      "log_spam_fixer": "2025-04-03 21:40:28 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/redstone/dropper": {
-    "criteria": {
-      "has_redstone": "2025-04-03 21:14:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-04-03 21:13:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_sword": {
-    "criteria": {
-      "has_gold_ingot": "2025-04-03 21:14:45 +0000"
-    },
-    "done": true
   },
   "incendium:technical/using/trailblazer": {
     "criteria": {
-      "log_spam_fixer": "2025-04-03 21:10:37 +0000"
+      "log_spam_fixer": "2025-04-03 21:36:28 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/gold_block": {
-    "criteria": {
-      "has_gold_ingot": "2025-04-03 21:14:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2025-04-03 21:11:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_banner": {
-    "criteria": {
-      "has_yellow_wool": "2025-04-03 21:14:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2025-04-03 21:14:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/pale_oak_boat": {
-    "criteria": {
-      "in_water": "2025-04-03 21:11:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:savanna_plateau": "2025-04-03 21:11:53 +0000",
-      "minecraft:dripstone_caves": "2025-04-03 21:11:15 +0000",
-      "minecraft:savanna": "2025-04-03 21:12:07 +0000"
+      "minecraft:jungle": "2025-04-03 21:36:28 +0000",
+      "minecraft:jagged_peaks": "2025-04-03 21:38:14 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-03 21:14:37 +0000"
+      "log_spam_fixer": "2025-04-03 21:40:28 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_diamond": "2025-04-03 21:13:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_carpet": {
-    "criteria": {
-      "has_yellow_wool": "2025-04-03 21:14:03 +0000"
-    },
-    "done": true
-  },
   "senti:tick": {
     "criteria": {
-      "requirement": "2025-04-03 21:10:36 +0000"
+      "requirement": "2025-04-03 21:36:27 +0000"
     },
     "done": true
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-03 21:14:37 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/tools/golden_hoe": {
-    "criteria": {
-      "has_gold_ingot": "2025-04-03 21:14:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "bread": "2025-04-03 21:13:12 +0000"
+      "log_spam_fixer": "2025-04-03 21:40:28 +0000"
     },
     "done": false
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "log_spam_fixer": "2025-04-03 21:10:37 +0000"
+      "log_spam_fixer": "2025-04-03 21:36:28 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-04-03 21:13:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2025-04-03 21:13:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_axe": {
-    "criteria": {
-      "has_diamond": "2025-04-03 21:13:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2025-04-03 21:11:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2025-04-03 21:11:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2025-04-03 21:14:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/piston": {
-    "criteria": {
-      "has_redstone": "2025-04-03 21:14:45 +0000"
-    },
-    "done": true
   },
   "DataVersion": 4189
 }
