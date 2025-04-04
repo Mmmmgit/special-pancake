@@ -1854,3 +1854,26 @@ chunky reload - Reload configuration
 [00:46:30] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 98351 chunks (99.12%), ETA: 0:00:37, Rate: 23.2 cps, Current: -102, 65
 [00:46:31] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 98384 chunks (99.15%), ETA: 0:00:40, Rate: 20.9 cps, Current: -102, 91
 [00:46:33] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 98541 chunks (99.31%), ETA: 0:00:22, Rate: 30.5 cps, Current: -97, 93
+[00:46:40] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 98544 chunks (99.31%), ETA: 0:00:29, Rate: 22.9 cps, Current: -118, 96
+[00:46:41] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 98590 chunks (99.36%), ETA: 0:00:26, Rate: 23.6 cps, Current: -117, 112
+[00:46:42] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 98594 chunks (99.36%), ETA: 0:00:27, Rate: 22.6 cps, Current: -116, 96
+[00:46:43] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 98640 chunks (99.41%), ETA: 0:00:25, Rate: 22.9 cps, Current: -115, 99
+[00:46:46] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 98658 chunks (99.43%), ETA: 0:00:25, Rate: 22.1 cps, Current: -115, 117
+[00:46:47] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 98680 chunks (99.45%), ETA: 0:00:24, Rate: 21.9 cps, Current: -114, 106
+[00:46:48] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 98708 chunks (99.48%), ETA: 0:00:24, Rate: 21.5 cps, Current: -113, 105
+[00:46:49] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 98746 chunks (99.52%), ETA: 0:00:22, Rate: 21.6 cps, Current: -112, 112
+[00:46:51] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 98759 chunks (99.53%), ETA: 0:00:22, Rate: 21.1 cps, Current: -112, 124
+[00:46:52] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 98798 chunks (99.57%), ETA: 0:00:20, Rate: 21.2 cps, Current: -110, 102
+[00:46:53] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 98804 chunks (99.58%), ETA: 0:00:20, Rate: 21.0 cps, Current: -110, 108
+[00:46:54] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 98840 chunks (99.61%), ETA: 0:00:17, Rate: 21.4 cps, Current: -109, 113
+[00:46:55] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 98859 chunks (99.63%), ETA: 0:00:17, Rate: 21.0 cps, Current: -108, 102
+[00:46:56] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 98895 chunks (99.67%), ETA: 0:00:15, Rate: 21.5 cps, Current: -107, 112
+[00:46:57] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 98913 chunks (99.69%), ETA: 0:00:14, Rate: 21.0 cps, Current: -107, 121
+[00:46:58] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 98949 chunks (99.72%), ETA: 0:00:13, Rate: 21.1 cps, Current: -105, 100
+[00:46:59] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 98980 chunks (99.75%), ETA: 0:00:11, Rate: 21.7 cps, Current: -105, 123
+[00:47:00] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 99003 chunks (99.78%), ETA: 0:00:10, Rate: 21.3 cps, Current: -104, 121
+[00:47:01] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 99033 chunks (99.81%), ETA: 0:00:11, Rate: 17.3 cps, Current: -102, 96
+[00:47:02] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 99053 chunks (99.83%), ETA: 0:00:09, Rate: 17.4 cps, Current: -102, 109
+[00:47:03] [Server thread/INFO]: [Chunky] Task running for minecraft:overworld. Processed: 99149 chunks (99.92%), ETA: 0:00:02, Rate: 25.7 cps, Current: -99, 112
+[00:47:04] [Server thread/INFO]: [Chunky] Task finished for minecraft:overworld. Processed: 99225 chunks (100.00%), Total time: 0:09:25
+[00:48:04] [Server thread/INFO]: Server empty for 60 seconds, pausing
