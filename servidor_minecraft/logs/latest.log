@@ -1153,3 +1153,64 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_91
 [09:42:33] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
 [09:44:24] [Server thread/INFO]: Villager class_1646['Unemployed'/132557, l='ServerLevel[world]', x=2324.07, y=76.50, z=-1132.52] died, message: 'Unemployed suffocated in a wall'
 [09:46:55] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
+[09:49:41] [Server thread/INFO]: Gathooo teleported to 1503.5 12.0 -1035.5 minecraft:overworld
+[09:50:20] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
+[09:50:31] [Server thread/INFO]: Gathooo teleported to 1503.5 12.0 -1035.5 minecraft:overworld
+[09:51:27] [Server thread/INFO]: Gathooo teleported to 545.5 74.0 -512.5 minecraft:overworld
+[09:52:29] [Server thread/INFO]: Gathooo teleported to 1503.5 12.0 -1035.5 minecraft:overworld
+[09:55:43] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Gathooo]
+[09:57:48] [Server thread/INFO]: SrLipord teleported to 1478.5 7.0 -1004.5 minecraft:overworld
+[09:58:02] [Server thread/INFO]: Gathooo teleported to 1478.5 7.0 -1004.5 minecraft:overworld
+[09:59:15] [Server thread/INFO]: Gathooo teleported to 1503.5 12.0 -1035.5 minecraft:overworld
+[09:59:18] [Server thread/INFO]: SrLipord teleported to 1503.5 12.0 -1035.5 minecraft:overworld
+[10:03:15] [Server thread/INFO]: SrLipord teleported to 1049.5 84.0 -778.5 minecraft:overworld
+[10:03:21] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Gathooo]
+[10:04:51] [Server thread/INFO]: SrLipord has made the advancement [The End?]
+[10:04:51] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[10:04:51] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[10:04:52] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[10:04:52] [Server thread/INFO]: Gathooo has made the advancement [The End?]
+[10:05:07] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[10:07:01] [Server thread/INFO]: SrLipord was killed by Ender Dragon using magic
+[10:07:05] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[10:07:20] [Server thread/INFO]: SrLipord lost connection: Disconnected
+[10:07:20] [Server thread/INFO]: SrLipord left the game
+[10:07:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[10:07:31] [Server thread/INFO]: <--[HERE]
+[10:09:21] [Server thread/INFO]: SrLipord[/127.202.136.174:41789] logged in with entity id 145665 at (1509.4838029851405, 9.0, -1036.514015985413)
+[10:09:21] [Server thread/INFO]: SrLipord joined the game
+[10:09:22] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[10:09:50] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[10:10:18] [Server thread/INFO]: Gathooo was doomed to fall
+[10:10:21] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[10:10:35] [Server thread/INFO]: Gathooo teleported to 7.5 60.0 16.5 minecraft:the_end
+[10:10:35] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[10:11:24] [Server thread/INFO]: SrLipord was doomed to fall by Ender Dragon
+[10:11:27] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[10:11:34] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[10:12:27] [Server thread/INFO]: Gathooo was doomed to fall
+[10:12:29] [Server thread/INFO]: SrLipord was doomed to fall
+[10:12:30] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[10:12:32] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[10:12:35] [Server thread/INFO]: Gathooo teleported to 7.5 61.0 -18.5 minecraft:the_end
+[10:12:36] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[10:12:37] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[10:13:33] [Server thread/INFO]: Gathooo was killed by [Intentional Game Design]
+[10:13:36] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[10:13:41] [Server thread/INFO]: Gathooo teleported to 9.5 60.0 0.5 minecraft:the_end
+[10:13:44] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[10:14:09] [Server thread/INFO]: Gathooo lost connection: Disconnected
+[10:14:09] [Server thread/INFO]: Gathooo left the game
+[10:14:22] [Server thread/INFO]: SrLipord lost connection: Disconnected
+[10:14:22] [Server thread/INFO]: SrLipord left the game
+[10:14:44] [Server thread/INFO]: Gathooo[/127.238.235.232:42381] logged in with entity id 147770 at (9.014070376618744, 60.0, 1.1490822538996328)
+[10:14:44] [Server thread/INFO]: Gathooo joined the game
+[10:14:46] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[10:15:09] [Server thread/INFO]: SrLipord[/127.202.136.174:45083] logged in with entity id 147868 at (-15.587708962489808, 58.0, -6.021157886097927)
+[10:15:09] [Server thread/INFO]: SrLipord joined the game
+[10:15:12] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[10:16:18] [Server thread/INFO]: SrLipord has reached the goal [You Need a Mint]
+[10:16:26] [Server thread/INFO]: SrLipord has made the advancement [Free the End]
+[10:17:40] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[10:19:21] [Server thread/INFO]: Gathooo lost connection: Disconnected
+[10:19:21] [Server thread/INFO]: Gathooo left the game
