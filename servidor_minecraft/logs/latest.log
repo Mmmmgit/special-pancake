@@ -591,3 +591,386 @@
 [06:36:40] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
 [06:36:48] [Server thread/INFO]: Gathooo teleported to 101.5 32.0 -198.5 minecraft:the_nether
 [06:36:48] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[06:38:20] [Server thread/INFO]: SrLipord was burned to a crisp while fighting Ghast
+[06:38:22] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[06:38:26] [Server thread/INFO]: SrLipord teleported to 85.5 53.0 -287.5 minecraft:the_nether
+[06:38:27] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[06:38:32] [Worker-Main-4/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/38910, l='ServerLevel[world]', x=-14.00, y=31.00, z=-489.00] as it would cause deadlock
+[06:38:32] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/38912, l='ServerLevel[world]', x=-14.00, y=31.00, z=-489.00] as it would cause deadlock
+[06:39:27] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/38329, l='ServerLevel[world]', x=72.02, y=-20.00, z=-266.28] died: Restless Spirit was killed
+[06:39:45] [Worker-Main-4/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/39099, l='ServerLevel[world]', x=17.00, y=31.00, z=-526.00] as it would cause deadlock
+[06:39:45] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/39103, l='ServerLevel[world]', x=17.00, y=31.00, z=-526.00] as it would cause deadlock
+[06:40:21] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/38489, l='ServerLevel[world]', x=96.40, y=-20.00, z=-321.75] died: Restless Spirit was killed
+[06:40:39] [Server thread/INFO]: SrLipord was slain by Zombified Piglin
+[06:40:40] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[06:40:44] [Server thread/INFO]: SrLipord teleported to 5.5 58.0 -415.5 minecraft:the_nether
+[06:40:45] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[06:40:51] [Worker-Main-3/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/39738, l='ServerLevel[world]', x=263.00, y=31.00, z=-519.00] as it would cause deadlock
+[06:40:51] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/39740, l='ServerLevel[world]', x=263.00, y=31.00, z=-519.00] as it would cause deadlock
+[06:41:02] [Server thread/INFO]: SrLipord lost connection: Disconnected
+[06:41:02] [Server thread/INFO]: SrLipord left the game
+[06:41:40] [Server thread/INFO]: SrLipord[/127.202.136.174:50281] logged in with entity id 39884 at (5.300000011920929, 58.0, -413.59617964578365)
+[06:41:40] [Server thread/INFO]: SrLipord joined the game
+[06:41:41] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[06:44:02] [Server thread/INFO]: Gathooo has made the advancement [A Terrible Fortress]
+[06:44:33] [Server thread/INFO]: [Not Secure] <Gathooo> [name:"Fortaleza 002", x:236, y:67, z:-437, dim:minecraft:the_nether]
+[06:44:34] [Server thread/INFO]: SrLipord has made the advancement [A Terrible Fortress]
+[06:44:52] [Server thread/INFO]: [Not Secure] <SrLipord> [name:"Fortaleza 001", x:-111, y:61, z:-426, dim:minecraft:the_nether]
+[06:45:20] [Server thread/INFO]: Gathooo was shot by Skeleton
+[06:45:23] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[06:45:28] [Server thread/INFO]: Gathooo teleported to 315.5 67.0 -447.5 minecraft:the_nether
+[06:45:29] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[06:46:21] [Server thread/INFO]: SrLipord has made the advancement [Into Fire]
+[06:47:08] [Server thread/INFO]: Gathooo has made the advancement [Into Fire]
+[06:47:56] [Server thread/INFO]: SrLipord was slain by Wither Skeleton
+[06:47:58] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[06:48:03] [Server thread/INFO]: SrLipord teleported to -194.5 55.0 -454.5 minecraft:the_nether
+[06:48:04] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[06:48:05] [Server thread/INFO]: SrLipord was slain by Wither Skeleton
+[06:48:07] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[06:48:14] [Server thread/INFO]: [SrLipord: Set own game mode to Creative Mode]
+[06:48:18] [Server thread/INFO]: SrLipord teleported to -194.5 55.0 -453.5 minecraft:the_nether
+[06:48:18] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[06:48:22] [Server thread/INFO]: Gathooo was fireballed by Blaze
+[06:48:24] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[06:48:29] [Server thread/INFO]: Gathooo teleported to 396.5 71.0 -437.5 minecraft:the_nether
+[06:48:30] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[06:48:34] [Server thread/INFO]: [SrLipord: Set own game mode to Survival Mode]
+[06:50:17] [Worker-Main-3/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/43964, l='ServerLevel[world]', x=601.00, y=31.00, z=-173.00] as it would cause deadlock
+[06:50:17] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/43967, l='ServerLevel[world]', x=601.00, y=31.00, z=-173.00] as it would cause deadlock
+[06:50:38] [Server thread/INFO]: SrLipord was fireballed by Blaze
+[06:50:40] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[06:50:46] [Server thread/INFO]: SrLipord teleported to -179.5 53.0 -476.5 minecraft:the_nether
+[06:50:46] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[06:50:52] [Server thread/INFO]: SrLipord was burned to a crisp while fighting Blaze
+[06:50:54] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[06:51:01] [Server thread/INFO]: SrLipord teleported to -179.5 53.0 -476.5 minecraft:the_nether
+[06:51:02] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[06:51:04] [Server thread/INFO]: SrLipord was slain by Blaze
+[06:51:05] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[06:51:08] [Server thread/INFO]: [SrLipord: Set own game mode to Creative Mode]
+[06:51:11] [Server thread/INFO]: SrLipord teleported to -179.5 53.0 -474.5 minecraft:the_nether
+[06:51:12] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[06:51:38] [Server thread/INFO]: [SrLipord: Set own game mode to Survival Mode]
+[06:51:52] [Server thread/INFO]: SrLipord was fireballed by Blaze
+[06:51:54] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[06:51:56] [Server thread/INFO]: [SrLipord: Set own game mode to Creative Mode]
+[06:51:59] [Server thread/INFO]: SrLipord teleported to -181.5 56.0 -464.5 minecraft:the_nether
+[06:51:59] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[06:52:17] [Server thread/INFO]: [SrLipord: Set own game mode to Survival Mode]
+[06:52:32] [Server thread/INFO]: SrLipord walked into fire while fighting Blaze
+[06:52:34] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[06:52:38] [Server thread/INFO]: [SrLipord: Set own game mode to Creative Mode]
+[06:52:40] [Server thread/INFO]: SrLipord teleported to -189.5 53.0 -481.5 minecraft:the_nether
+[06:52:41] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[06:52:52] [Server thread/INFO]: [SrLipord: Set own game mode to Survival Mode]
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/piglins -> incendium:cvill/piglins
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/piglins -> incendium:cvill/piglins
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/piglins -> incendium:cvill/piglins
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
+[06:53:39] [Server thread/INFO]: SrLipord was slain by Enderman
+[06:53:40] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[06:53:46] [Server thread/INFO]: SrLipord teleported to -256.5 49.0 -536.5 minecraft:the_nether
+[06:53:47] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[06:55:39] [Server thread/INFO]: Gathooo was doomed to fall
+[06:55:41] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[06:55:47] [Server thread/INFO]: Gathooo teleported to 613.5 75.0 -674.5 minecraft:the_nether
+[06:55:47] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[06:56:53] [Server thread/INFO]: Gathooo was slain by Wither Skeleton
+[06:56:55] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[06:56:58] [Server thread/INFO]: [Gathooo: Set own game mode to Creative Mode]
+[06:57:01] [Server thread/INFO]: Gathooo teleported to 627.5 68.0 -678.5 minecraft:the_nether
+[06:57:02] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[06:57:03] [Server thread/INFO]: [Not Secure] <SrLipord> [name:"Farm Perlas", x:-300, y:38, z:-579, dim:minecraft:the_nether]
+[06:57:32] [Server thread/INFO]: SrLipord was slain by Enderman
+[06:57:33] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[06:57:40] [Server thread/INFO]: SrLipord teleported to -299.5 38.0 -578.5 minecraft:the_nether
+[06:57:40] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[06:57:40] [Server thread/INFO]: [Gathooo: Set own game mode to Survival Mode]
+[06:58:22] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
+[07:00:30] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[07:01:19] [Server thread/INFO]: SrLipord teleported to 64.5 32.0 -53.5 minecraft:the_nether
+[07:01:21] [Server thread/INFO]: Gathooo teleported to 665.5 -51.0 -297.5 minecraft:overworld
+[07:01:22] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[07:01:34] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[07:03:27] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[07:04:52] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[07:05:00] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[07:07:49] [Server thread/INFO]: [SrLipord: Gave 0 experience points to Gathooo]
+[07:08:27] [Server thread/INFO]: SrLipord lost connection: Disconnected
+[07:08:27] [Server thread/INFO]: SrLipord left the game
+[07:08:46] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[07:08:46] [Server thread/INFO]: <--[HERE]
+[07:08:47] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[07:08:47] [Server thread/INFO]: <--[HERE]
+[07:08:47] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[07:08:47] [Server thread/INFO]: <--[HERE]
+[07:09:13] [Server thread/INFO]: SrLipord[/127.202.136.174:42017] logged in with entity id 53578 at (668.6999999880791, -3.125, -228.69999998807907)
+[07:09:13] [Server thread/INFO]: SrLipord joined the game
+[07:09:14] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[07:11:20] [Server thread/INFO]: SrLipord drowned
+[07:11:25] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[07:11:43] [Server thread/INFO]: [Not Secure] <SrLipord> [name:"SUPERFICIE", x:629, y:91, z:-476, dim:minecraft:overworld]
+[07:11:47] [Server thread/INFO]: SrLipord teleported to 681.5 54.0 -218.5 minecraft:overworld
+[07:12:13] [Server thread/INFO]: SrLipord teleported to 629.5 91.0 -475.5 minecraft:overworld
+[07:12:57] [Server thread/INFO]: Gathooo teleported to 629.5 91.0 -475.5 minecraft:overworld
+[07:13:04] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
+[07:13:13] [Server thread/INFO]: Gathooo was blown up by Creeper
+[07:13:22] [Server thread/INFO]: Gathooo lost connection: Disconnected
+[07:13:22] [Server thread/INFO]: Gathooo left the game
+[07:13:43] [Server thread/INFO]: SrLipord has made the advancement [Sweet Dreams]
+[07:15:39] [Server thread/INFO]: Gathooo[/127.238.235.232:48183] logged in with entity id 56159 at (655.3227157064174, 77.0, -451.10155926451324)
+[07:15:39] [Server thread/INFO]: Gathooo joined the game
+[07:15:40] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[07:15:43] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[07:15:50] [Server thread/INFO]: Gathooo teleported to 655.5 77.0 -451.5 minecraft:overworld
+[07:16:01] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
+[07:16:24] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[07:16:43] [Server thread/INFO]: [Not Secure] <SrLipord> [name:"Casa provisional", x:545, y:74, z:-513, dim:minecraft:overworld]
+[07:19:02] [Server thread/INFO]: SrLipord was blown up by Creeper
+[07:19:04] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[07:22:20] [Server thread/INFO]: SrLipord has made the advancement [True Adventurer]
+[07:24:40] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
+[07:24:49] [Server thread/INFO]: Gathooo has made the advancement [Sweet Dreams]
+[07:27:32] [Server thread/INFO]: Gathooo has made the advancement [True Adventurer]
+[07:28:40] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
+[07:30:29] [Server thread/INFO]: Gathooo was blown up by Creeper
+[07:30:30] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[07:30:38] [Server thread/INFO]: Gathooo teleported to 1132.5 65.0 -787.5 minecraft:overworld
+[07:31:40] [Server thread/INFO]: [Gathooo: Set own game mode to Creative Mode]
+[07:32:22] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
+[07:32:23] [Server thread/INFO]: [Gathooo: Set own game mode to Survival Mode]
+[07:34:50] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
+[07:41:18] [Server thread/INFO]: Gathooo has made the advancement [Eye Spy]
+[07:41:22] [Server thread/INFO]: SrLipord has made the advancement [Eye Spy]
+[07:45:51] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
+[07:48:10] [Server thread/INFO]: [Not Secure] <SrLipord> [name:"Mesa", x:1478, y:7, z:-1005, dim:minecraft:overworld]
+[07:48:17] [Server thread/INFO]: Gathooo teleported to 396.5 71.0 -437.5 minecraft:the_nether
+[07:48:21] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[07:48:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3062ms or 61 ticks behind
+[07:48:23] [Server thread/INFO]: SrLipord teleported to -110.5 61.0 -425.5 minecraft:the_nether
+[07:48:27] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[07:49:06] [Server thread/INFO]: SrLipord lost connection: Disconnected
+[07:49:06] [Server thread/INFO]: SrLipord left the game
+[07:50:08] [Server thread/INFO]: SrLipord[/127.202.136.174:46691] logged in with entity id 71279 at (-111.68549966176921, 61.0, -438.686074552102)
+[07:50:08] [Server thread/INFO]: SrLipord joined the game
+[07:50:11] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[07:51:16] [Server thread/INFO]: SrLipord was slain by Blaze
+[07:51:18] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[07:51:25] [Server thread/INFO]: SrLipord teleported to -180.5 55.0 -467.5 minecraft:the_nether
+[07:51:26] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[07:51:28] [Server thread/INFO]: SrLipord was slain by Blaze
+[07:51:34] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[07:51:36] [Server thread/INFO]: [SrLipord: Set own game mode to Creative Mode]
+[07:51:41] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[07:51:55] [Server thread/INFO]: [SrLipord: Set own game mode to Survival Mode]
+[07:52:45] [Server thread/INFO]: SrLipord was burned to a crisp while fighting Blaze
+[07:52:47] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[07:52:57] [Server thread/INFO]: [Not Secure] <SrLipord> [name:"Mesa", x:1478, y:7, z:-1005, dim:minecraft:overworld]
+[07:53:05] [Server thread/INFO]: SrLipord teleported to -180.5 54.0 -466.5 minecraft:the_nether
+[07:53:05] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[07:54:34] [Server thread/INFO]: SrLipord burned to death
+[07:54:37] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[07:54:43] [Server thread/INFO]: SrLipord teleported to -182.5 55.0 -466.5 minecraft:the_nether
+[07:54:43] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[07:56:17] [Server thread/INFO]: SrLipord was fireballed by Blaze
+[07:56:20] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[07:56:27] [Server thread/INFO]: SrLipord teleported to -182.5 54.0 -465.5 minecraft:the_nether
+[07:56:27] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[07:56:35] [Server thread/INFO]: SrLipord lost connection: Disconnected
+[07:56:35] [Server thread/INFO]: SrLipord left the game
+[07:56:58] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[07:56:58] [Server thread/INFO]: <--[HERE]
+[07:57:15] [Server thread/INFO]: SrLipord[/127.202.136.174:48671] logged in with entity id 76549 at (-181.2253774081488, 54.0, -464.30000001192093)
+[07:57:15] [Server thread/INFO]: SrLipord joined the game
+[07:57:16] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[07:57:29] [Server thread/INFO]: SrLipord was burned to a crisp while fighting Blaze
+[07:57:31] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[07:57:34] [Server thread/INFO]: [SrLipord: Set own game mode to Creative Mode]
+[07:57:38] [Server thread/INFO]: SrLipord teleported to -180.5 54.0 -464.5 minecraft:the_nether
+[07:57:39] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
