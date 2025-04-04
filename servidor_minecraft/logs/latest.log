@@ -551,3 +551,43 @@
 [06:27:13] [Server thread/INFO]: [SrLipord: Set own game mode to Creative Mode]
 [06:27:17] [Server thread/INFO]: SrLipord teleported to 137.5 33.0 -181.5 minecraft:the_nether
 [06:27:17] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[06:27:54] [Server thread/INFO]: [SrLipord: Set own game mode to Survival Mode]
+[06:28:19] [Server thread/INFO]: Gathooo[/127.238.235.232:51105] logged in with entity id 35285 at (114.66511313591114, 46.0, -182.8608082000243)
+[06:28:19] [Server thread/INFO]: Gathooo joined the game
+[06:28:20] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[06:28:20] [Server thread/INFO]: SrLipord lost connection: Disconnected
+[06:28:20] [Server thread/INFO]: SrLipord left the game
+[06:28:20] [Server thread/WARN]: handleDisconnection() called twice
+[06:29:12] [Server thread/INFO]: SrLipord[/127.202.136.174:50375] logged in with entity id 35381 at (136.1675003301272, 34.0, -164.69999998807907)
+[06:29:12] [Server thread/INFO]: SrLipord joined the game
+[06:29:14] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[06:31:04] [Server thread/INFO]: SrLipord was slain by Piglin Brute
+[06:31:08] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[06:31:11] [Server thread/INFO]: Gathooo has made the advancement [Take Aim]
+[06:31:12] [Server thread/INFO]: SrLipord teleported to 131.5 63.0 -157.5 minecraft:the_nether
+[06:31:12] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
+[06:31:21] [Server thread/INFO]: Gathooo was slain by Piglin Brute
+[06:31:24] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[06:31:29] [Server thread/INFO]: Gathooo teleported to 127.5 56.0 -159.5 minecraft:the_nether
+[06:31:30] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[06:31:37] [Server thread/INFO]: Gathooo tried to swim in lava
+[06:31:39] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[06:31:41] [Server thread/INFO]: [SrLipord: Teleported Gathooo to SrLipord]
+[06:31:41] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[06:31:46] [Server thread/INFO]: Gathooo teleported to 127.5 56.0 -159.5 minecraft:the_nether
+[06:32:49] [Server thread/INFO]: Gathooo was slain by Piglin Brute
+[06:33:03] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[06:33:09] [Server thread/INFO]: Gathooo teleported to 122.5 58.0 -156.5 minecraft:the_nether
+[06:33:10] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[06:33:11] [Server thread/INFO]: Gathooo was slain by Piglin Brute
+[06:33:13] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[06:33:28] [Server thread/INFO]: Gathooo teleported to 122.5 58.0 -156.5 minecraft:the_nether
+[06:33:29] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[06:33:31] [Server thread/INFO]: Gathooo was slain by Piglin Brute
+[06:33:33] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[06:33:38] [Server thread/INFO]: Gathooo teleported to 122.5 58.0 -156.5 minecraft:the_nether
+[06:33:39] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[06:36:38] [Server thread/INFO]: Gathooo burned to death
+[06:36:40] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
+[06:36:48] [Server thread/INFO]: Gathooo teleported to 101.5 32.0 -198.5 minecraft:the_nether
+[06:36:48] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
