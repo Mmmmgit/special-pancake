@@ -672,3 +672,5 @@ java.lang.Throwable
 [06:03:00] [Server thread/DEBUG] [REI] Player SrLipord has outdated displays version 0 [latest version: E1D222F500000001], sending reset packet request.
 [06:03:25] [Server thread/DEBUG] [REI] Player Gathooo has outdated displays version 0 [latest version: E1D222F500000001]
 [06:03:25] [Server thread/DEBUG] [REI] Player Gathooo has outdated displays version 0 [latest version: E1D222F500000001], sending reset packet request.
+[06:18:31] [Server thread/DEBUG] [REI] Player SrLipord has outdated displays version 0 [latest version: E1D222F500000001]
+[06:18:31] [Server thread/DEBUG] [REI] Player SrLipord has outdated displays version 0 [latest version: E1D222F500000001], sending reset packet request.
