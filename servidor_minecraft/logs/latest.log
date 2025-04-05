@@ -1,8 +1,8 @@
-[04:55:37] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.10
-[04:55:40] [main/WARN]: Warnings were found!
+[20:06:41] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.10
+[20:06:41] [main/WARN]: Warnings were found!
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.4.1 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
-[04:55:40] [main/INFO]: Loading 140 mods:
+[20:06:41] [main/INFO]: Loading 139 mods:
 	- amplified_nether 1.2.7
 	- architectury 15.0.3
 	- balm 21.4.24
@@ -121,7 +121,6 @@
 	- minecraft 1.21.4
 	- modernfix 5.20.3+mc1.21.4
 	- mr_vanilla_backpacks 1.3.1.1
-	- omni 1.1
 	- puzzleslib 21.4.13
 	- pyrotechnic_elytra 1.0.1
 	- repurposed_structures 7.5.15+1.21.4-fabric
@@ -162,1055 +161,139 @@
 	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
 	   |-- org_quiltmc_parsers_gson 0.2.1
 	   \-- org_quiltmc_parsers_json 0.2.1
-[04:55:41] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/special-pancake/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[04:55:41] [main/INFO]: Compatibility level set to JAVA_16
-[04:55:41] [main/INFO]: Compatibility level set to JAVA_17
-[04:55:41] [main/INFO]: Compatibility level set to JAVA_21
-[04:55:41] [main/WARN]: Reference map 'diagonalfences.common.refmap.json' for diagonalfences.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[04:55:41] [main/WARN]: Reference map 'diagonalfences.fabric.refmap.json' for diagonalfences.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[04:55:41] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.mixins.json could not be read. If this is a development environment you can ignore this message
-[04:55:41] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.compat.modmenu.mixins.json could not be read. If this is a development environment you can ignore this message
-[04:55:41] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[04:55:41] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
-[04:55:41] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[04:55:41] [main/INFO]: Loaded configuration file for ModernFix 5.20.3+mc1.21.4: 54 options available, 0 override(s) found
-[04:55:41] [main/INFO]: Applying Nashorn fix
-[04:55:42] [main/WARN]: Error loading class: net/minecraft/class_938 (java.lang.ClassNotFoundException: net/minecraft/class_938)
-[04:55:42] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
-[04:55:43] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
-[04:55:43] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[04:55:43] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[04:55:48] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[04:55:53] [main/INFO]: Vanilla bootstrap took 9138 milliseconds
-[04:55:54] [main/INFO]: Loading Collective version 8.1.
-[04:55:54] [main/INFO]: Constructing common components for diagonalblocks:main
-[04:55:54] [main/INFO]: Constructing common components for diagonalfences:main
-[04:55:54] [Cicada thread 0/INFO]: [cicada] Hello, anyone there?
-[04:55:54] [Cicada thread 0/INFO]: [do_a_barrel_roll] I'm here, ready to rumble!
-[04:55:54] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 221ms
-[04:55:54] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 44ms
-[04:55:54] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 70ms
-[04:55:55] [main/INFO]: Constructing common components for easyanvils:main
-[04:55:55] [main/INFO]: Dispatching loading event for config easyanvils-common.toml
-[04:55:55] [main/INFO]: Constructing common components for easymagic:main
-[04:55:55] [main/INFO]: Dispatching loading event for config easymagic-common.toml
-[04:55:55] [main/INFO]: Registered synced config with path sereneseasons/fertility.toml
-[04:55:55] [main/INFO]: Registered synced config with path sereneseasons/seasons.toml
-[04:55:56] [main/INFO]: Initializing ServerSide Packet Registries
-[04:55:56] [main/WARN]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
-[04:55:56] [main/INFO]: [KONKRETE] Loading v1.9.9 in server-side mode on FABRIC!
-[04:55:56] [main/INFO]: ---------------------------
-[04:55:56] [main/INFO]: KONKRETE SHIPS AND USES THE FOLLOWING LIBRARIES:
-[04:55:56] [main/INFO]:  
-[04:55:56] [main/INFO]: Open Imaging Copyright © 2014 Dhyan Blum.
-[04:55:56] [main/INFO]: Open Imaging is licensed under Apache-2.0.
-[04:55:56] [main/INFO]:  
-[04:55:56] [main/INFO]: JsonPath Copyright © 2017 Jayway.
-[04:55:56] [main/INFO]: JsonPath is licensed under Apache-2.0.
-[04:55:56] [main/INFO]:  
-[04:55:56] [main/INFO]: Json-smart Copyright © netplex.
-[04:55:56] [main/INFO]: Json-smart is licensed under Apache-2.0.
-[04:55:56] [main/INFO]:  
-[04:55:56] [main/INFO]: Exp4j Copyright © Frank Asseg.
-[04:55:56] [main/INFO]: Exp4j is licensed under Apache-2.0. https://github.com/fasseg/exp4j
-[04:55:56] [main/INFO]: ---------------------------
-[04:55:56] [main/INFO]: [KONKRETE] Server-side modules initialized and ready to use!
-[04:55:56] [main/INFO]: Initialize mod Library Ferret
-[04:55:56] [main/INFO]: Initialized mod Library Ferret
-[04:55:57] [main/INFO]: Constructing common components for puzzleslib:main
-[04:55:57] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
-[04:55:57] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REICommonPlugin
-[04:55:57] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REICommonPlugin
-[04:55:57] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REICommonPlugin
-[04:55:57] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
-[04:55:57] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
-[04:55:57] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
-[04:55:57] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
-[04:55:57] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
-[04:55:57] [main/INFO]: [STDOUT]: Initialize WeaponMaster
-[04:55:58] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:55:58] [main/INFO]: Collected 0 data resources in 140.606115ms:
+[20:06:42] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/special-pancake/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[20:06:42] [main/INFO]: Compatibility level set to JAVA_16
+[20:06:42] [main/INFO]: Compatibility level set to JAVA_17
+[20:06:42] [main/INFO]: Compatibility level set to JAVA_21
+[20:06:42] [main/WARN]: Reference map 'diagonalfences.common.refmap.json' for diagonalfences.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:06:42] [main/WARN]: Reference map 'diagonalfences.fabric.refmap.json' for diagonalfences.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:06:42] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:06:42] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.compat.modmenu.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:06:42] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:06:42] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:06:42] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:06:42] [main/INFO]: Loaded configuration file for ModernFix 5.20.3+mc1.21.4: 54 options available, 0 override(s) found
+[20:06:42] [main/INFO]: Applying Nashorn fix
+[20:06:43] [main/WARN]: Error loading class: net/minecraft/class_938 (java.lang.ClassNotFoundException: net/minecraft/class_938)
+[20:06:43] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
+[20:06:43] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
+[20:06:44] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[20:06:44] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[20:06:48] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[20:06:54] [main/INFO]: Vanilla bootstrap took 9169 milliseconds
+[20:06:54] [main/INFO]: Loading Collective version 8.1.
+[20:06:55] [main/INFO]: Constructing common components for diagonalblocks:main
+[20:06:55] [main/INFO]: Constructing common components for diagonalfences:main
+[20:06:55] [Cicada thread 0/INFO]: [cicada] Hello, anyone there?
+[20:06:55] [Cicada thread 0/INFO]: [do_a_barrel_roll] I'm here, ready to rumble!
+[20:06:55] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 397ms
+[20:06:55] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 61ms
+[20:06:55] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 103ms
+[20:06:56] [main/INFO]: Constructing common components for easyanvils:main
+[20:06:56] [main/INFO]: Dispatching loading event for config easyanvils-common.toml
+[20:06:56] [main/INFO]: Constructing common components for easymagic:main
+[20:06:56] [main/INFO]: Dispatching loading event for config easymagic-common.toml
+[20:06:56] [main/INFO]: Registered synced config with path sereneseasons/fertility.toml
+[20:06:56] [main/INFO]: Registered synced config with path sereneseasons/seasons.toml
+[20:06:57] [main/INFO]: Initializing ServerSide Packet Registries
+[20:06:57] [main/WARN]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[20:06:57] [main/INFO]: [KONKRETE] Loading v1.9.9 in server-side mode on FABRIC!
+[20:06:57] [main/INFO]: ---------------------------
+[20:06:57] [main/INFO]: KONKRETE SHIPS AND USES THE FOLLOWING LIBRARIES:
+[20:06:57] [main/INFO]:  
+[20:06:57] [main/INFO]: Open Imaging Copyright © 2014 Dhyan Blum.
+[20:06:57] [main/INFO]: Open Imaging is licensed under Apache-2.0.
+[20:06:57] [main/INFO]:  
+[20:06:57] [main/INFO]: JsonPath Copyright © 2017 Jayway.
+[20:06:57] [main/INFO]: JsonPath is licensed under Apache-2.0.
+[20:06:57] [main/INFO]:  
+[20:06:57] [main/INFO]: Json-smart Copyright © netplex.
+[20:06:57] [main/INFO]: Json-smart is licensed under Apache-2.0.
+[20:06:57] [main/INFO]:  
+[20:06:57] [main/INFO]: Exp4j Copyright © Frank Asseg.
+[20:06:57] [main/INFO]: Exp4j is licensed under Apache-2.0. https://github.com/fasseg/exp4j
+[20:06:57] [main/INFO]: ---------------------------
+[20:06:57] [main/INFO]: [KONKRETE] Server-side modules initialized and ready to use!
+[20:06:57] [main/INFO]: Initialize mod Library Ferret
+[20:06:57] [main/INFO]: Initialized mod Library Ferret
+[20:06:58] [main/INFO]: Constructing common components for puzzleslib:main
+[20:06:58] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[20:06:58] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REICommonPlugin
+[20:06:58] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REICommonPlugin
+[20:06:58] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REICommonPlugin
+[20:06:58] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[20:06:58] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
+[20:06:58] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[20:06:58] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[20:06:58] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
+[20:06:59] [main/INFO]: [STDOUT]: Initialize WeaponMaster
+[20:06:59] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:06:59] [main/INFO]: Collected 0 data resources in 119.279473ms:
 
-[04:56:00] [main/INFO]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
-[04:56:03] [main/INFO]: Loaded 2321 recipes
-[04:56:03] [main/INFO]: Loaded 1861 advancements
-[04:56:03] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 77 translation keys
-[04:56:04] [main/INFO]: Applied 507 biome modifications to 167 of 168 new biomes in 37.80 ms
-[04:56:04] [Server thread/INFO]: Dispatching loading event for config easyanvils-server.toml
-[04:56:04] [Server thread/INFO]: Dispatching loading event for config easymagic-server.toml
-[04:56:04] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[04:56:04] [Server thread/INFO]: Loading properties
-[04:56:04] [Server thread/INFO]: Default game type: SURVIVAL
-[04:56:04] [Server thread/INFO]: Generating keypair
-[04:56:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:56:04] [Server thread/INFO]: Using epoll channel type
-[04:56:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:56:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:56:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:56:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:56:04] [Server thread/INFO]: Preparing level "world"
-[04:56:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:56:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:56:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:56:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:56:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:56:07] [Server thread/INFO]: Time elapsed: 1988 ms
-[04:56:07] [Server thread/INFO]: Done (2.653s)! For help, type "help"
-[04:56:07] [Server thread/WARN]: Dedicated server took 39.216 seconds to load
-[04:56:07] [Server thread/INFO]: [REI] OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-[04:56:07] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for START.
-[04:56:07] [Server thread/INFO]: [REI] Plugins (3):
-[04:56:07] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[04:56:07] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[04:56:07] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[04:56:07] [Server thread/INFO]: [REI] OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-[04:56:07] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for START in 2.005 ms, totaling 94.19 ms.
-[04:56:07] [Server thread/INFO]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-[04:56:07] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for END.
-[04:56:07] [Server thread/INFO]: [REI] Plugins (3):
-[04:56:07] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[04:56:07] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[04:56:07] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[04:56:07] [Server thread/INFO]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-[04:56:07] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for END in 1.215 ms, totaling 123.0 ms.
-[04:56:07] [Server thread/INFO]: Start loading plugin from Balm: net.blay09.mods.balm.fabric.compat.hudinfo.FabricJadeModCompat
-[04:56:07] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
-[04:56:07] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
-[04:56:07] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
-[04:56:07] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
-[04:56:07] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
-[04:56:07] [Server thread/INFO]: Start loading plugin from Polymer (Core): eu.pb4.polymer.core.impl.client.compat.JadeCompatibility
-[04:56:07] [Server thread/INFO]: Start loading plugin from Waystones: net.blay09.mods.waystones.compat.JadeIntegration
-[04:56:07] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
-[04:56:07] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@60c74585 for service interface journeymap.api.services.ClientPlatformService
-[04:56:07] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@3303eab7 for service interface journeymap.api.services.CommonPlatformService
-[04:56:24] [Server thread/INFO]: SrLipord[/127.202.136.174:45091] logged in with entity id 112 at (636.9944520120976, 99.0, -485.0676248276577)
-[04:56:25] [Server thread/INFO]: SrLipord joined the game
-[04:56:26] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[04:56:37] [Server thread/INFO]: [SrLipord: Set the time to 23000]
-[04:58:35] [Server thread/INFO]: Gathooo[/127.238.235.232:41653] logged in with entity id 1109 at (638.5, 77.0, -479.5)
-[04:58:35] [Server thread/INFO]: Gathooo joined the game
-[04:58:35] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[04:59:43] [Server thread/INFO]: SrLipord has made the advancement [Monster Hunter]
-[05:00:08] [Server thread/INFO]: Gathooo has made the advancement [Stone Age]
-[05:00:34] [Server thread/INFO]: SrLipord has made the advancement [Stone Age]
-[05:00:41] [Server thread/INFO]: Gathooo has made the advancement [Getting an Upgrade]
-[05:01:05] [Server thread/INFO]: SrLipord has made the advancement [Getting an Upgrade]
-[05:07:00] [Server thread/INFO]: SrLipord lost connection: Disconnected
-[05:07:00] [Server thread/INFO]: SrLipord left the game
-[05:07:16] [Server thread/INFO]: Gathooo fell from a high place
-[05:07:17] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[05:07:36] [Server thread/INFO]: The difficulty has been set to Hard
-[05:07:50] [Server thread/INFO]: SrLipord[/127.202.136.174:44291] logged in with entity id 5075 at (778.7568474287227, 56.0, -506.69999998807907)
-[05:07:50] [Server thread/INFO]: SrLipord joined the game
-[05:07:51] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[05:09:15] [Server thread/INFO]: Gathooo has made the advancement [Acquire Hardware]
-[05:15:25] [Server thread/INFO]: Gathooo has made the advancement [Monster Hunter]
-[05:17:30] [Server thread/INFO]: Gathooo fell from a high place
-[05:17:32] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[05:20:33] [Server thread/INFO]: Gathooo has made the advancement [Isn't It Iron Pick]
-[05:21:00] [Server thread/INFO]: Gathooo has made the advancement [Diamonds!]
-[05:21:50] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[05:22:30] [Server thread/INFO]: SrLipord has made the advancement [Acquire Hardware]
-[05:22:36] [Server thread/INFO]: SrLipord has made the advancement [Isn't It Iron Pick]
-[05:22:42] [Server thread/INFO]: Gathooo has made the advancement [Suit Up]
-[05:25:48] [Server thread/INFO]: SrLipord has made the advancement [Suit Up]
-[05:31:56] [Server thread/INFO]: Gathooo burned to death
-[05:31:58] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[05:32:37] [Server thread/INFO]: Gathooo teleported to 690.5 -54.0 -292.5 minecraft:overworld
-[05:32:40] [Server thread/INFO]: Gathooo tried to swim in lava
-[05:32:42] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[05:32:49] [Server thread/INFO]: Gathooo teleported to 690.5 -54.0 -293.5 minecraft:overworld
-[05:32:52] [Server thread/INFO]: Gathooo teleported to 690.5 -54.0 -292.5 minecraft:overworld
-[05:32:55] [Server thread/INFO]: Gathooo teleported to 690.5 -54.0 -292.5 minecraft:overworld
-[05:36:36] [Server thread/INFO]: Gathooo has made the advancement [Ice Bucket Challenge]
-[05:39:16] [Server thread/WARN]: Gathooo moved wrongly!
-[05:40:39] [Server thread/INFO]: Gathooo was slain by Zombie
-[05:40:39] [Server thread/INFO]: SrLipord has made the advancement [The Cutest Predator]
-[05:40:40] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[05:40:50] [Server thread/INFO]: Gathooo teleported to 628.5 -53.0 -321.5 minecraft:overworld
-[05:40:56] [Server thread/INFO]: Gathooo was slain by Zombie
-[05:40:57] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[05:41:06] [Server thread/INFO]: Gathooo teleported to 626.5 -54.0 -321.5 minecraft:overworld
-[05:42:41] [Server thread/INFO]: Gathooo has made the advancement [Cover Me with Diamonds]
-[05:43:26] [Server thread/INFO]: SrLipord has made the advancement [Diamonds!]
-[05:45:40] [Server thread/INFO]: SrLipord drowned
-[05:45:42] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[05:48:12] [Server thread/INFO]: SrLipord was shot by Skeleton
-[05:48:14] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[05:49:05] [Server thread/INFO]: SrLipord was blown up by Creeper
-[05:49:08] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[05:49:18] [Server thread/INFO]: SrLipord teleported to 644.5 28.0 -326.5 minecraft:overworld
-[05:49:27] [Server thread/INFO]: SrLipord teleported to 743.5 80.0 -511.5 minecraft:overworld
-[05:49:31] [Server thread/INFO]: SrLipord teleported to 714.5 75.0 -389.5 minecraft:overworld
-[05:49:37] [Server thread/INFO]: SrLipord teleported to 644.5 28.0 -326.5 minecraft:overworld
-[05:49:37] [Server thread/INFO]: SrLipord suffocated in a wall while fighting Skeleton
-[05:49:41] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[05:49:46] [Server thread/INFO]: SrLipord teleported to 644.5 28.0 -326.5 minecraft:overworld
-[05:49:53] [Server thread/INFO]: SrLipord teleported to 644.5 28.0 -326.5 minecraft:overworld
-[05:49:58] [Server thread/INFO]: SrLipord suffocated in a wall
-[05:50:00] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[05:50:44] [Server thread/INFO]: SrLipord teleported to 644.5 28.0 -326.5 minecraft:overworld
-[05:51:50] [Server thread/INFO]: SrLipord drowned
-[05:51:51] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[05:51:54] [Server thread/INFO]: SrLipord teleported to 644.5 28.0 -326.5 minecraft:overworld
-[05:52:07] [Server thread/INFO]: SrLipord teleported to 743.5 80.0 -511.5 minecraft:overworld
-[05:52:17] [Server thread/INFO]: SrLipord teleported to 608.5 9.0 -336.5 minecraft:overworld
-[05:56:42] [Server thread/INFO]: SrLipord was blown up by Creeper
-[05:56:45] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[05:56:54] [Server thread/INFO]: SrLipord teleported to 648.5 -12.0 -301.5 minecraft:overworld
-[05:56:56] [Server thread/INFO]: SrLipord was blown up by Creeper
-[05:56:58] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[05:57:03] [Server thread/INFO]: SrLipord teleported to 648.5 -12.0 -301.5 minecraft:overworld
-[05:57:27] [Server thread/INFO]: SrLipord was killed by Witch using magic
-[05:57:29] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[05:57:34] [Server thread/INFO]: SrLipord teleported to 647.5 -13.0 -305.5 minecraft:overworld
-[05:59:50] [Server thread/INFO]: SrLipord lost connection: Disconnected
-[05:59:50] [Server thread/INFO]: SrLipord left the game
-[05:59:52] [Server thread/INFO]: Gathooo lost connection: Disconnected
-[05:59:52] [Server thread/INFO]: Gathooo left the game
-[06:00:52] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[06:01:13] [Server thread/INFO]: SrLipord[/127.202.136.174:44613] logged in with entity id 27245 at (662.9391455201431, -47.0, -356.82601452525665)
-[06:01:13] [Server thread/INFO]: SrLipord joined the game
-[06:01:14] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:01:46] [Server thread/INFO]: SrLipord lost connection: Disconnected
-[06:01:46] [Server thread/INFO]: SrLipord left the game
-[06:02:46] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[06:03:00] [Server thread/INFO]: SrLipord[/127.202.136.174:56063] logged in with entity id 27625 at (674.5771274913916, -47.0, -358.9804537883408)
-[06:03:00] [Server thread/INFO]: SrLipord joined the game
-[06:03:01] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:03:25] [Server thread/INFO]: Gathooo[/127.238.235.232:36681] logged in with entity id 27980 at (658.7779034495202, -46.0, -357.58564727624776)
-[06:03:25] [Server thread/INFO]: Gathooo joined the game
-[06:03:26] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:08:01] [Server thread/INFO]: SrLipord has made the advancement [Ice Bucket Challenge]
-[06:11:15] [Server thread/INFO]: SrLipord has made the advancement [We Need to Go Deeper]
-[06:11:15] [Server thread/INFO]: SrLipord has made the advancement [Incendium]
-[06:11:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15144ms or 302 ticks behind
-[06:11:22] [Server thread/INFO]: Gathooo has made the advancement [We Need to Go Deeper]
-[06:11:22] [Server thread/INFO]: Gathooo has made the advancement [Incendium]
-[06:11:38] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:11:39] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/piglins -> incendium:cvill/piglins
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/piglins -> incendium:cvill/piglins
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:11:42] [Worker-Main-4/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:12:43] [Server thread/INFO]: SrLipord teleported to 64.5 32.0 -53.5 minecraft:the_nether
-[06:13:14] [Server thread/INFO]: [Not Secure] <SrLipord> [name:"Portal 001", x:64, y:32, z:-54, dim:minecraft:the_nether]
-[06:14:25] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/29525, l='ServerLevel[world]', x=89.12, y=-20.00, z=-121.64] died: Restless Spirit was killed
-[06:15:36] [Server thread/INFO]: SrLipord burned to death
-[06:15:38] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:15:43] [Server thread/INFO]: SrLipord teleported to 131.5 32.0 -94.5 minecraft:the_nether
-[06:15:44] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:15:47] [Server thread/INFO]: Gathooo has made the advancement [Those Were the Days]
-[06:15:59] [Server thread/INFO]: SrLipord has made the advancement [Those Were the Days]
-[06:16:59] [Server thread/INFO]: SrLipord lost connection: Disconnected
-[06:16:59] [Server thread/INFO]: SrLipord left the game
-[06:18:31] [Server thread/INFO]: SrLipord[/127.202.136.174:47249] logged in with entity id 30908 at (143.48659833370337, 35.0, -149.69999998807907)
-[06:18:31] [Server thread/INFO]: SrLipord joined the game
-[06:18:31] [Server thread/INFO]: Gathooo has completed the challenge [Return to Sender]
-[06:18:34] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:18:39] [Server thread/INFO]: Gathooo has made the advancement [Not Today, Thank You]
-[06:19:18] [Server thread/INFO]: SrLipord has made the advancement [Not Today, Thank You]
-[06:20:10] [Server thread/INFO]: Gathooo tried to swim in lava
-[06:20:12] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:20:25] [Server thread/INFO]: SrLipord has made the advancement [Strange Biomes]
-[06:20:32] [Server thread/INFO]: Gathooo teleported to 64.5 32.0 -53.5 minecraft:the_nether
-[06:20:33] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:20:40] [Server thread/INFO]: Gathooo teleported to 123.5 31.0 -163.5 minecraft:the_nether
-[06:20:43] [Server thread/INFO]: Gathooo was slain by Piglin Brute
-[06:20:46] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:20:58] [Server thread/INFO]: Gathooo teleported to 122.5 31.0 -162.5 minecraft:the_nether
-[06:20:58] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:21:00] [Server thread/INFO]: Gathooo was slain by Hoglin
-[06:21:02] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:21:09] [Server thread/INFO]: Gathooo teleported to 123.5 31.0 -163.5 minecraft:the_nether
-[06:21:10] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:21:12] [Server thread/INFO]: Gathooo tried to swim in lava to escape Hoglin
-[06:21:14] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:22:33] [Server thread/INFO]: SrLipord was shot by Piglin
-[06:22:36] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:22:39] [Server thread/INFO]: SrLipord teleported to 64.5 32.0 -53.5 minecraft:the_nether
-[06:22:39] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:22:48] [Server thread/INFO]: SrLipord teleported to 131.5 32.0 -94.5 minecraft:the_nether
-[06:22:52] [Server thread/INFO]: SrLipord teleported to 105.5 39.0 -161.5 minecraft:the_nether
-[06:23:52] [Server thread/INFO]: SrLipord has made the advancement [War Pigs]
-[06:24:14] [Server thread/INFO]: SrLipord has made the advancement [Hidden in the Depths]
-[06:25:00] [Server thread/INFO]: Gathooo teleported to 123.5 31.0 -163.5 minecraft:the_nether
-[06:25:01] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:25:13] [Server thread/INFO]: Gathooo burned to death
-[06:25:15] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:25:20] [Server thread/INFO]: Gathooo teleported to 123.5 32.0 -160.5 minecraft:the_nether
-[06:25:21] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:25:53] [Server thread/INFO]: SrLipord was slain by Piglin Brute
-[06:25:55] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:26:05] [Server thread/INFO]: SrLipord teleported to 134.5 33.0 -181.5 minecraft:the_nether
-[06:26:06] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:26:17] [Server thread/INFO]: SrLipord was slain by Piglin Brute
-[06:26:20] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:26:28] [Server thread/INFO]: SrLipord teleported to 135.5 33.0 -183.5 minecraft:the_nether
-[06:26:29] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:26:30] [Server thread/INFO]: SrLipord suffocated in a wall while fighting Piglin Brute
-[06:26:30] [Server thread/INFO]: Gathooo has made the advancement [Strange Biomes]
-[06:26:30] [Server thread/INFO]: Gathooo has made the advancement [War Pigs]
-[06:26:32] [Server thread/INFO]: Gathooo has made the advancement [Who is Cutting Onions?]
-[06:26:41] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:26:47] [Server thread/INFO]: SrLipord teleported to 136.5 33.0 -182.5 minecraft:the_nether
-[06:26:47] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:26:49] [Server thread/INFO]: SrLipord suffocated in a wall while fighting Piglin Brute
-[06:26:50] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/33303, l='ServerLevel[world]', x=124.65, y=-20.00, z=-128.16] died: Restless Spirit was killed
-[06:26:50] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/33306, l='ServerLevel[world]', x=97.38, y=-20.00, z=-152.61] died: Restless Spirit was killed
-[06:27:08] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:27:11] [Server thread/INFO]: Gathooo lost connection: Disconnected
-[06:27:11] [Server thread/INFO]: Gathooo left the game
-[06:27:13] [Server thread/INFO]: [SrLipord: Set own game mode to Creative Mode]
-[06:27:17] [Server thread/INFO]: SrLipord teleported to 137.5 33.0 -181.5 minecraft:the_nether
-[06:27:17] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:27:54] [Server thread/INFO]: [SrLipord: Set own game mode to Survival Mode]
-[06:28:19] [Server thread/INFO]: Gathooo[/127.238.235.232:51105] logged in with entity id 35285 at (114.66511313591114, 46.0, -182.8608082000243)
-[06:28:19] [Server thread/INFO]: Gathooo joined the game
-[06:28:20] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:28:20] [Server thread/INFO]: SrLipord lost connection: Disconnected
-[06:28:20] [Server thread/INFO]: SrLipord left the game
-[06:28:20] [Server thread/WARN]: handleDisconnection() called twice
-[06:29:12] [Server thread/INFO]: SrLipord[/127.202.136.174:50375] logged in with entity id 35381 at (136.1675003301272, 34.0, -164.69999998807907)
-[06:29:12] [Server thread/INFO]: SrLipord joined the game
-[06:29:14] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:31:04] [Server thread/INFO]: SrLipord was slain by Piglin Brute
-[06:31:08] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:31:11] [Server thread/INFO]: Gathooo has made the advancement [Take Aim]
-[06:31:12] [Server thread/INFO]: SrLipord teleported to 131.5 63.0 -157.5 minecraft:the_nether
-[06:31:12] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:31:21] [Server thread/INFO]: Gathooo was slain by Piglin Brute
-[06:31:24] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:31:29] [Server thread/INFO]: Gathooo teleported to 127.5 56.0 -159.5 minecraft:the_nether
-[06:31:30] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:31:37] [Server thread/INFO]: Gathooo tried to swim in lava
-[06:31:39] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:31:41] [Server thread/INFO]: [SrLipord: Teleported Gathooo to SrLipord]
-[06:31:41] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:31:46] [Server thread/INFO]: Gathooo teleported to 127.5 56.0 -159.5 minecraft:the_nether
-[06:32:49] [Server thread/INFO]: Gathooo was slain by Piglin Brute
-[06:33:03] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:33:09] [Server thread/INFO]: Gathooo teleported to 122.5 58.0 -156.5 minecraft:the_nether
-[06:33:10] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:33:11] [Server thread/INFO]: Gathooo was slain by Piglin Brute
-[06:33:13] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:33:28] [Server thread/INFO]: Gathooo teleported to 122.5 58.0 -156.5 minecraft:the_nether
-[06:33:29] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:33:31] [Server thread/INFO]: Gathooo was slain by Piglin Brute
-[06:33:33] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:33:38] [Server thread/INFO]: Gathooo teleported to 122.5 58.0 -156.5 minecraft:the_nether
-[06:33:39] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:36:38] [Server thread/INFO]: Gathooo burned to death
-[06:36:40] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:36:48] [Server thread/INFO]: Gathooo teleported to 101.5 32.0 -198.5 minecraft:the_nether
-[06:36:48] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:38:20] [Server thread/INFO]: SrLipord was burned to a crisp while fighting Ghast
-[06:38:22] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:38:26] [Server thread/INFO]: SrLipord teleported to 85.5 53.0 -287.5 minecraft:the_nether
-[06:38:27] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:38:32] [Worker-Main-4/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/38910, l='ServerLevel[world]', x=-14.00, y=31.00, z=-489.00] as it would cause deadlock
-[06:38:32] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/38912, l='ServerLevel[world]', x=-14.00, y=31.00, z=-489.00] as it would cause deadlock
-[06:39:27] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/38329, l='ServerLevel[world]', x=72.02, y=-20.00, z=-266.28] died: Restless Spirit was killed
-[06:39:45] [Worker-Main-4/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/39099, l='ServerLevel[world]', x=17.00, y=31.00, z=-526.00] as it would cause deadlock
-[06:39:45] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/39103, l='ServerLevel[world]', x=17.00, y=31.00, z=-526.00] as it would cause deadlock
-[06:40:21] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/38489, l='ServerLevel[world]', x=96.40, y=-20.00, z=-321.75] died: Restless Spirit was killed
-[06:40:39] [Server thread/INFO]: SrLipord was slain by Zombified Piglin
-[06:40:40] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:40:44] [Server thread/INFO]: SrLipord teleported to 5.5 58.0 -415.5 minecraft:the_nether
-[06:40:45] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:40:51] [Worker-Main-3/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/39738, l='ServerLevel[world]', x=263.00, y=31.00, z=-519.00] as it would cause deadlock
-[06:40:51] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/39740, l='ServerLevel[world]', x=263.00, y=31.00, z=-519.00] as it would cause deadlock
-[06:41:02] [Server thread/INFO]: SrLipord lost connection: Disconnected
-[06:41:02] [Server thread/INFO]: SrLipord left the game
-[06:41:40] [Server thread/INFO]: SrLipord[/127.202.136.174:50281] logged in with entity id 39884 at (5.300000011920929, 58.0, -413.59617964578365)
-[06:41:40] [Server thread/INFO]: SrLipord joined the game
-[06:41:41] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:44:02] [Server thread/INFO]: Gathooo has made the advancement [A Terrible Fortress]
-[06:44:33] [Server thread/INFO]: [Not Secure] <Gathooo> [name:"Fortaleza 002", x:236, y:67, z:-437, dim:minecraft:the_nether]
-[06:44:34] [Server thread/INFO]: SrLipord has made the advancement [A Terrible Fortress]
-[06:44:52] [Server thread/INFO]: [Not Secure] <SrLipord> [name:"Fortaleza 001", x:-111, y:61, z:-426, dim:minecraft:the_nether]
-[06:45:20] [Server thread/INFO]: Gathooo was shot by Skeleton
-[06:45:23] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:45:28] [Server thread/INFO]: Gathooo teleported to 315.5 67.0 -447.5 minecraft:the_nether
-[06:45:29] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:46:21] [Server thread/INFO]: SrLipord has made the advancement [Into Fire]
-[06:47:08] [Server thread/INFO]: Gathooo has made the advancement [Into Fire]
-[06:47:56] [Server thread/INFO]: SrLipord was slain by Wither Skeleton
-[06:47:58] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:48:03] [Server thread/INFO]: SrLipord teleported to -194.5 55.0 -454.5 minecraft:the_nether
-[06:48:04] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:48:05] [Server thread/INFO]: SrLipord was slain by Wither Skeleton
-[06:48:07] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:48:14] [Server thread/INFO]: [SrLipord: Set own game mode to Creative Mode]
-[06:48:18] [Server thread/INFO]: SrLipord teleported to -194.5 55.0 -453.5 minecraft:the_nether
-[06:48:18] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:48:22] [Server thread/INFO]: Gathooo was fireballed by Blaze
-[06:48:24] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:48:29] [Server thread/INFO]: Gathooo teleported to 396.5 71.0 -437.5 minecraft:the_nether
-[06:48:30] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:48:34] [Server thread/INFO]: [SrLipord: Set own game mode to Survival Mode]
-[06:50:17] [Worker-Main-3/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/43964, l='ServerLevel[world]', x=601.00, y=31.00, z=-173.00] as it would cause deadlock
-[06:50:17] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/43967, l='ServerLevel[world]', x=601.00, y=31.00, z=-173.00] as it would cause deadlock
-[06:50:38] [Server thread/INFO]: SrLipord was fireballed by Blaze
-[06:50:40] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:50:46] [Server thread/INFO]: SrLipord teleported to -179.5 53.0 -476.5 minecraft:the_nether
-[06:50:46] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:50:52] [Server thread/INFO]: SrLipord was burned to a crisp while fighting Blaze
-[06:50:54] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:51:01] [Server thread/INFO]: SrLipord teleported to -179.5 53.0 -476.5 minecraft:the_nether
-[06:51:02] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:51:04] [Server thread/INFO]: SrLipord was slain by Blaze
-[06:51:05] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:51:08] [Server thread/INFO]: [SrLipord: Set own game mode to Creative Mode]
-[06:51:11] [Server thread/INFO]: SrLipord teleported to -179.5 53.0 -474.5 minecraft:the_nether
-[06:51:12] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:51:38] [Server thread/INFO]: [SrLipord: Set own game mode to Survival Mode]
-[06:51:52] [Server thread/INFO]: SrLipord was fireballed by Blaze
-[06:51:54] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:51:56] [Server thread/INFO]: [SrLipord: Set own game mode to Creative Mode]
-[06:51:59] [Server thread/INFO]: SrLipord teleported to -181.5 56.0 -464.5 minecraft:the_nether
-[06:51:59] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:52:17] [Server thread/INFO]: [SrLipord: Set own game mode to Survival Mode]
-[06:52:32] [Server thread/INFO]: SrLipord walked into fire while fighting Blaze
-[06:52:34] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:52:38] [Server thread/INFO]: [SrLipord: Set own game mode to Creative Mode]
-[06:52:40] [Server thread/INFO]: SrLipord teleported to -189.5 53.0 -481.5 minecraft:the_nether
-[06:52:41] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:52:52] [Server thread/INFO]: [SrLipord: Set own game mode to Survival Mode]
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/piglins -> incendium:cvill/piglins
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:14] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/piglins -> incendium:cvill/piglins
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/piglins -> incendium:cvill/piglins
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:22] [Worker-Main-3/WARN]: Template pool fallback chain found: incendium:cvill/stilts -> incendium:cvill/stilts
-[06:53:39] [Server thread/INFO]: SrLipord was slain by Enderman
-[06:53:40] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:53:46] [Server thread/INFO]: SrLipord teleported to -256.5 49.0 -536.5 minecraft:the_nether
-[06:53:47] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:55:39] [Server thread/INFO]: Gathooo was doomed to fall
-[06:55:41] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:55:47] [Server thread/INFO]: Gathooo teleported to 613.5 75.0 -674.5 minecraft:the_nether
-[06:55:47] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:56:53] [Server thread/INFO]: Gathooo was slain by Wither Skeleton
-[06:56:55] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:56:58] [Server thread/INFO]: [Gathooo: Set own game mode to Creative Mode]
-[06:57:01] [Server thread/INFO]: Gathooo teleported to 627.5 68.0 -678.5 minecraft:the_nether
-[06:57:02] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[06:57:03] [Server thread/INFO]: [Not Secure] <SrLipord> [name:"Farm Perlas", x:-300, y:38, z:-579, dim:minecraft:the_nether]
-[06:57:32] [Server thread/INFO]: SrLipord was slain by Enderman
-[06:57:33] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:57:40] [Server thread/INFO]: SrLipord teleported to -299.5 38.0 -578.5 minecraft:the_nether
-[06:57:40] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[06:57:40] [Server thread/INFO]: [Gathooo: Set own game mode to Survival Mode]
-[06:58:22] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
-[07:00:30] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[07:01:19] [Server thread/INFO]: SrLipord teleported to 64.5 32.0 -53.5 minecraft:the_nether
-[07:01:21] [Server thread/INFO]: Gathooo teleported to 665.5 -51.0 -297.5 minecraft:overworld
-[07:01:22] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[07:01:34] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[07:03:27] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[07:04:52] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[07:05:00] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[07:07:49] [Server thread/INFO]: [SrLipord: Gave 0 experience points to Gathooo]
-[07:08:27] [Server thread/INFO]: SrLipord lost connection: Disconnected
-[07:08:27] [Server thread/INFO]: SrLipord left the game
-[07:08:46] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[07:08:46] [Server thread/INFO]: <--[HERE]
-[07:08:47] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[07:08:47] [Server thread/INFO]: <--[HERE]
-[07:08:47] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[07:08:47] [Server thread/INFO]: <--[HERE]
-[07:09:13] [Server thread/INFO]: SrLipord[/127.202.136.174:42017] logged in with entity id 53578 at (668.6999999880791, -3.125, -228.69999998807907)
-[07:09:13] [Server thread/INFO]: SrLipord joined the game
-[07:09:14] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[07:11:20] [Server thread/INFO]: SrLipord drowned
-[07:11:25] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[07:11:43] [Server thread/INFO]: [Not Secure] <SrLipord> [name:"SUPERFICIE", x:629, y:91, z:-476, dim:minecraft:overworld]
-[07:11:47] [Server thread/INFO]: SrLipord teleported to 681.5 54.0 -218.5 minecraft:overworld
-[07:12:13] [Server thread/INFO]: SrLipord teleported to 629.5 91.0 -475.5 minecraft:overworld
-[07:12:57] [Server thread/INFO]: Gathooo teleported to 629.5 91.0 -475.5 minecraft:overworld
-[07:13:04] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
-[07:13:13] [Server thread/INFO]: Gathooo was blown up by Creeper
-[07:13:22] [Server thread/INFO]: Gathooo lost connection: Disconnected
-[07:13:22] [Server thread/INFO]: Gathooo left the game
-[07:13:43] [Server thread/INFO]: SrLipord has made the advancement [Sweet Dreams]
-[07:15:39] [Server thread/INFO]: Gathooo[/127.238.235.232:48183] logged in with entity id 56159 at (655.3227157064174, 77.0, -451.10155926451324)
-[07:15:39] [Server thread/INFO]: Gathooo joined the game
-[07:15:40] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[07:15:43] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[07:15:50] [Server thread/INFO]: Gathooo teleported to 655.5 77.0 -451.5 minecraft:overworld
-[07:16:01] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
-[07:16:24] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[07:16:43] [Server thread/INFO]: [Not Secure] <SrLipord> [name:"Casa provisional", x:545, y:74, z:-513, dim:minecraft:overworld]
-[07:19:02] [Server thread/INFO]: SrLipord was blown up by Creeper
-[07:19:04] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[07:22:20] [Server thread/INFO]: SrLipord has made the advancement [True Adventurer]
-[07:24:40] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
-[07:24:49] [Server thread/INFO]: Gathooo has made the advancement [Sweet Dreams]
-[07:27:32] [Server thread/INFO]: Gathooo has made the advancement [True Adventurer]
-[07:28:40] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
-[07:30:29] [Server thread/INFO]: Gathooo was blown up by Creeper
-[07:30:30] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[07:30:38] [Server thread/INFO]: Gathooo teleported to 1132.5 65.0 -787.5 minecraft:overworld
-[07:31:40] [Server thread/INFO]: [Gathooo: Set own game mode to Creative Mode]
-[07:32:22] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
-[07:32:23] [Server thread/INFO]: [Gathooo: Set own game mode to Survival Mode]
-[07:34:50] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
-[07:41:18] [Server thread/INFO]: Gathooo has made the advancement [Eye Spy]
-[07:41:22] [Server thread/INFO]: SrLipord has made the advancement [Eye Spy]
-[07:45:51] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
-[07:48:10] [Server thread/INFO]: [Not Secure] <SrLipord> [name:"Mesa", x:1478, y:7, z:-1005, dim:minecraft:overworld]
-[07:48:17] [Server thread/INFO]: Gathooo teleported to 396.5 71.0 -437.5 minecraft:the_nether
-[07:48:21] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[07:48:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3062ms or 61 ticks behind
-[07:48:23] [Server thread/INFO]: SrLipord teleported to -110.5 61.0 -425.5 minecraft:the_nether
-[07:48:27] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[07:49:06] [Server thread/INFO]: SrLipord lost connection: Disconnected
-[07:49:06] [Server thread/INFO]: SrLipord left the game
-[07:50:08] [Server thread/INFO]: SrLipord[/127.202.136.174:46691] logged in with entity id 71279 at (-111.68549966176921, 61.0, -438.686074552102)
-[07:50:08] [Server thread/INFO]: SrLipord joined the game
-[07:50:11] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[07:51:16] [Server thread/INFO]: SrLipord was slain by Blaze
-[07:51:18] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[07:51:25] [Server thread/INFO]: SrLipord teleported to -180.5 55.0 -467.5 minecraft:the_nether
-[07:51:26] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[07:51:28] [Server thread/INFO]: SrLipord was slain by Blaze
-[07:51:34] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[07:51:36] [Server thread/INFO]: [SrLipord: Set own game mode to Creative Mode]
-[07:51:41] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[07:51:55] [Server thread/INFO]: [SrLipord: Set own game mode to Survival Mode]
-[07:52:45] [Server thread/INFO]: SrLipord was burned to a crisp while fighting Blaze
-[07:52:47] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[07:52:57] [Server thread/INFO]: [Not Secure] <SrLipord> [name:"Mesa", x:1478, y:7, z:-1005, dim:minecraft:overworld]
-[07:53:05] [Server thread/INFO]: SrLipord teleported to -180.5 54.0 -466.5 minecraft:the_nether
-[07:53:05] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[07:54:34] [Server thread/INFO]: SrLipord burned to death
-[07:54:37] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[07:54:43] [Server thread/INFO]: SrLipord teleported to -182.5 55.0 -466.5 minecraft:the_nether
-[07:54:43] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[07:56:17] [Server thread/INFO]: SrLipord was fireballed by Blaze
-[07:56:20] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[07:56:27] [Server thread/INFO]: SrLipord teleported to -182.5 54.0 -465.5 minecraft:the_nether
-[07:56:27] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[07:56:35] [Server thread/INFO]: SrLipord lost connection: Disconnected
-[07:56:35] [Server thread/INFO]: SrLipord left the game
-[07:56:58] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[07:56:58] [Server thread/INFO]: <--[HERE]
-[07:57:15] [Server thread/INFO]: SrLipord[/127.202.136.174:48671] logged in with entity id 76549 at (-181.2253774081488, 54.0, -464.30000001192093)
-[07:57:15] [Server thread/INFO]: SrLipord joined the game
-[07:57:16] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[07:57:29] [Server thread/INFO]: SrLipord was burned to a crisp while fighting Blaze
-[07:57:31] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[07:57:34] [Server thread/INFO]: [SrLipord: Set own game mode to Creative Mode]
-[07:57:38] [Server thread/INFO]: SrLipord teleported to -180.5 54.0 -464.5 minecraft:the_nether
-[07:57:39] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[07:57:57] [Server thread/INFO]: [SrLipord: Set own game mode to Survival Mode]
-[07:58:46] [Server thread/INFO]: SrLipord was slain by Blaze
-[07:58:52] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[07:58:57] [Server thread/INFO]: [SrLipord: Set own game mode to Creative Mode]
-[07:58:58] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[07:59:08] [Server thread/INFO]: [SrLipord: Set own game mode to Survival Mode]
-[08:00:14] [Server thread/INFO]: SrLipord was slain by Blaze
-[08:00:16] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[08:00:19] [Server thread/INFO]: [SrLipord: Set own game mode to Creative Mode]
-[08:00:21] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[08:00:32] [Server thread/INFO]: Gathooo teleported to 1478.5 7.0 -1004.5 minecraft:overworld
-[08:00:33] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[08:01:27] [Server thread/INFO]: Gathooo has made the advancement [Enchanter]
-[08:01:36] [Server thread/INFO]: [SrLipord: Set own game mode to Survival Mode]
-[08:02:20] [Server thread/INFO]: Gathooo teleported to 1503.5 12.0 -1035.5 minecraft:overworld
-[08:05:03] [Server thread/INFO]: SrLipord has made the advancement [Take Aim]
-[08:05:17] [Server thread/INFO]: Gathooo teleported to 236.5 67.0 -436.5 minecraft:the_nether
-[08:05:18] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[08:14:00] [Server thread/INFO]: [Not Secure] <SrLipord> [name:"Farm Blaze artesanal tuptm", x:-181, y:54, z:-462, dim:minecraft:the_nether]
-[08:16:09] [Server thread/INFO]: Gathooo teleported to 1478.5 7.0 -1004.5 minecraft:overworld
-[08:16:09] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[08:16:50] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
-[08:16:50] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[08:18:03] [Server thread/INFO]: Gathooo teleported to 1478.5 7.0 -1004.5 minecraft:overworld
-[08:18:03] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[08:18:48] [Server thread/INFO]: [SrLipord: The difficulty has been set to Peaceful]
-[08:18:51] [Server thread/INFO]: [SrLipord: The difficulty has been set to Hard]
-[08:20:11] [Server thread/INFO]: [SrLipord: The difficulty has been set to Peaceful]
-[08:20:13] [Server thread/INFO]: [SrLipord: The difficulty has been set to Hard]
-[08:20:53] [Server thread/INFO]: [SrLipord: Set own game mode to Adventure Mode]
-[08:20:54] [Server thread/INFO]: [SrLipord: Set own game mode to Survival Mode]
-[08:20:56] [Server thread/INFO]: [SrLipord: Set own game mode to Spectator Mode]
-[08:21:01] [Server thread/INFO]: [SrLipord: Set own game mode to Survival Mode]
-[08:22:25] [Server thread/INFO]: [SrLipord: Set own game mode to Spectator Mode]
-[08:22:28] [Server thread/INFO]: [SrLipord: Set own game mode to Survival Mode]
-[08:22:33] [Server thread/INFO]: SrLipord teleported to -180.5 54.0 -461.5 minecraft:the_nether
-[08:23:16] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Gathooo]
-[08:23:17] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[08:23:45] [Server thread/INFO]: Gathooo has made the advancement [Sticky Situation]
-[08:26:45] [Server thread/INFO]: SrLipord teleported to -299.5 38.0 -578.5 minecraft:the_nether
-[08:26:46] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[08:27:58] [Server thread/INFO]: Gathooo teleported to 1503.5 12.0 -1035.5 minecraft:overworld
-[08:30:56] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
-[08:30:57] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[08:32:03] [Server thread/INFO]: Gathooo teleported to 1478.5 7.0 -1004.5 minecraft:overworld
-[08:32:03] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[08:33:39] [Server thread/INFO]: Gathooo teleported to 665.5 -51.0 -297.5 minecraft:overworld
-[08:34:00] [Server thread/INFO]: Gathooo teleported to 1604.5 2.0 -950.5 minecraft:overworld
-[08:35:03] [Server thread/INFO]: Gathooo teleported to 1478.5 7.0 -1004.5 minecraft:overworld
-[08:35:32] [Server thread/INFO]: Gathooo teleported to 1503.5 12.0 -1035.5 minecraft:overworld
-[08:37:09] [Server thread/INFO]: SrLipord was slain by Piglin
-[08:37:11] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[08:37:16] [Server thread/INFO]: [SrLipord: Set own game mode to Creative Mode]
-[08:37:17] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[08:37:25] [Server thread/INFO]: [SrLipord: Set own game mode to Survival Mode]
-[08:41:44] [Server thread/INFO]: [SrLipord: The difficulty has been set to Peaceful]
-[08:41:46] [Server thread/INFO]: [SrLipord: The difficulty has been set to Hard]
-[08:42:42] [Server thread/INFO]: SrLipord teleported to -180.5 54.0 -461.5 minecraft:the_nether
-[08:42:59] [Server thread/INFO]: Gathooo teleported to 1604.5 2.0 -950.5 minecraft:overworld
-[08:43:00] [Server thread/INFO]: SrLipord teleported to -299.5 38.0 -578.5 minecraft:the_nether
-[08:44:50] [Server thread/INFO]: Gathooo teleported to 1503.5 12.0 -1035.5 minecraft:overworld
-[08:46:36] [Server thread/INFO]: Gathooo teleported to 1503.5 12.0 -1035.5 minecraft:overworld
-[08:47:26] [Server thread/INFO]: Gathooo teleported to 1478.5 7.0 -1004.5 minecraft:overworld
-[08:48:36] [Server thread/INFO]: SrLipord teleported to 1478.5 7.0 -1004.5 minecraft:overworld
-[08:48:36] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[08:49:14] [Server thread/INFO]: SrLipord has made the advancement [Enchanter]
-[08:49:23] [Server thread/INFO]: Gathooo teleported to 1604.5 2.0 -950.5 minecraft:overworld
-[08:50:06] [Server thread/INFO]: Gathooo teleported to 1489.5 -26.0 -1099.5 minecraft:overworld
-[08:50:18] [Server thread/INFO]: Gathooo teleported to 1604.5 2.0 -950.5 minecraft:overworld
-[08:53:33] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Gathooo]
-[08:54:06] [Server thread/INFO]: SrLipord teleported to 665.5 -51.0 -297.5 minecraft:overworld
-[08:56:17] [Server thread/INFO]: SrLipord drowned
-[08:56:18] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[08:56:25] [Server thread/INFO]: SrLipord teleported to 669.5 0.0 -231.5 minecraft:overworld
-[08:58:11] [Server thread/INFO]: SrLipord teleported to 665.5 -51.0 -297.5 minecraft:overworld
-[08:58:24] [Server thread/INFO]: SrLipord teleported to 669.5 0.0 -231.5 minecraft:overworld
-[09:00:55] [Server thread/INFO]: SrLipord lost connection: Disconnected
-[09:00:55] [Server thread/INFO]: SrLipord left the game
-[09:00:59] [Server thread/INFO]: [Not Secure] <Gathooo> [name:"Chamber City 1", x:1300, y:-15, z:-845, dim:minecraft:overworld]
-[09:01:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[09:01:01] [Server thread/INFO]: <--[HERE]
-[09:01:40] [Server thread/INFO]: SrLipord[/127.202.136.174:44005] logged in with entity id 104873 at (654.6999999880791, -5.9375, -283.45565244940445)
-[09:01:40] [Server thread/INFO]: SrLipord joined the game
-[09:01:41] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[09:01:44] [Server thread/INFO]: [Not Secure] <Gathooo> [name:"Chamber City 1", x:1300, y:-15, z:-845, dim:minecraft:overworld]
-[09:02:16] [Server thread/INFO]: [Not Secure] <Gathooo> [name:"Chamber City 1", x:1284, y:-22, z:-845, dim:minecraft:overworld]
-[09:02:56] [Server thread/INFO]: Gathooo teleported to 7696.0 -21.0 -1016.0 minecraft:overworld
-[09:03:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4103ms or 82 ticks behind
-[09:05:40] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
-[09:06:27] [Server thread/INFO]: SrLipord teleported to -299.5 38.0 -578.5 minecraft:the_nether
-[09:06:30] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[09:06:43] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Gathooo]
-[09:06:43] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[09:07:09] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
-[09:10:23] [Server thread/INFO]: Gathooo fell from a high place
-[09:10:25] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[09:10:34] [Server thread/INFO]: Gathooo teleported to 499.5 -54.0 -125.5 minecraft:overworld
-[09:11:23] [Server thread/INFO]: SrLipord has made the advancement [Tactical Fishing]
-[09:14:59] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
-[09:16:12] [Server thread/INFO]: Gathooo teleported to 1478.5 7.0 -1004.5 minecraft:overworld
-[09:16:26] [Server thread/INFO]: SrLipord teleported to 1478.5 7.0 -1004.5 minecraft:overworld
-[09:17:11] [Server thread/INFO]: SrLipord has made the advancement [Cover Me with Diamonds]
-[09:17:40] [Server thread/ERROR]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/me.shedaniel.rei.plugin.common.displays.tag.TagNodes.lambda$init$1(TagNodes.java:137) ~[RoughlyEnoughItems-18.0.798-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-15.0.3-fabric.jar:?]
-	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:74) ~[fabric-networking-api-v1-4.4.0+db5e668204-3d67c883c023e00c.jar:?]
-	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:829) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:836) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[09:19:36] [Server thread/INFO]: Gathooo teleported to 1503.5 12.0 -1035.5 minecraft:overworld
-[09:19:56] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
-[09:19:57] [Server thread/INFO]: [Not Secure] <SrLipord> [name:"Farm Blaze artesanal tuptm", x:-1448, y:54, z:-3696, dim:minecraft:the_nether]
-[09:20:01] [Server thread/INFO]: [Not Secure] <SrLipord> [name:"Farm Perlas", x:-2400, y:38, z:-4632, dim:minecraft:the_nether]
-[09:20:05] [Server thread/INFO]: Gathooo teleported to -299.5 38.0 -578.5 minecraft:the_nether
-[09:20:05] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[09:20:12] [Server thread/INFO]: SrLipord teleported to 629.5 91.0 -475.5 minecraft:overworld
-[09:20:26] [Server thread/INFO]: [SrLipord: Set the weather to clear]
-[09:23:26] [Server thread/INFO]: Gathooo teleported to -38.5 133.0 -165.5 minecraft:the_nether
-[09:24:58] [Server thread/INFO]: Gathooo was doomed to fall by Restless Spirit
-[09:25:04] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[09:25:10] [Server thread/INFO]: Gathooo teleported to -27.5 129.0 -133.5 minecraft:the_nether
-[09:25:11] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[09:26:25] [Server thread/INFO]: SrLipord teleported to 1047.0 96.0 -788.0 minecraft:overworld
-[09:26:28] [Server thread/INFO]: SrLipord teleported to 1049.5 84.0 -778.5 minecraft:overworld
-[09:27:03] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/117001, l='ServerLevel[world]', x=7.73, y=-20.00, z=-128.47] died: Restless Spirit was killed
-[09:29:34] [Server thread/INFO]: Gathooo was doomed to fall by Skeleton
-[09:29:36] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[09:29:40] [Server thread/INFO]: Gathooo teleported to 0.5 131.0 -116.5 minecraft:the_nether
-[09:29:41] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[09:30:40] [Worker-Main-4/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/122245, l='ServerLevel[world]', x=-259.00, y=31.00, z=-29.00] as it would cause deadlock
-[09:30:41] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/122248, l='ServerLevel[world]', x=-259.00, y=31.00, z=-29.00] as it would cause deadlock
-[09:31:50] [Server thread/INFO]: Gathooo was shot by Skeleton
-[09:31:55] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[09:32:00] [Server thread/INFO]: [Gathooo: Set own game mode to Creative Mode]
-[09:32:03] [Server thread/INFO]: Gathooo teleported to -105.5 135.0 -130.5 minecraft:the_nether
-[09:32:04] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[09:32:21] [Server thread/INFO]: [Gathooo: Set own game mode to Survival Mode]
-[09:33:55] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/124067, l='ServerLevel[world]', x=-107.28, y=-20.00, z=-176.31] died: Restless Spirit was killed
-[09:35:21] [Server thread/INFO]: SrLipord fell from a high place
-[09:35:22] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[09:35:33] [Server thread/INFO]: SrLipord teleported to 1874.5 73.0 -767.5 minecraft:overworld
-[09:35:40] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/124818, l='ServerLevel[world]', x=-100.84, y=-20.00, z=-190.03] died: Restless Spirit was killed
-[09:36:05] [Server thread/INFO]: Gathooo teleported to 1478.5 7.0 -1004.5 minecraft:overworld
-[09:36:06] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[09:36:36] [Server thread/INFO]: Gathooo teleported to 1503.5 12.0 -1035.5 minecraft:overworld
-[09:37:49] [Server thread/INFO]: Gathooo teleported to 545.5 74.0 -512.5 minecraft:overworld
-[09:38:20] [Server thread/INFO]: SrLipord teleported to 1874.5 73.0 -767.5 minecraft:overworld
-[09:40:12] [Server thread/INFO]: Villager class_1646['Unemployed'/130236, l='ServerLevel[world]', x=2255.72, y=76.00, z=-1135.37] died, message: 'Unemployed suffocated in a wall'
-[09:40:14] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
-[09:40:35] [Server thread/INFO]: Villager class_1646['Unemployed'/130582, l='ServerLevel[world]', x=2334.37, y=74.00, z=-1181.28] died, message: 'Unemployed suffocated in a wall'
-[09:41:42] [Server thread/INFO]: SrLipord lost connection: Disconnected
-[09:41:42] [Server thread/INFO]: SrLipord left the game
-[09:42:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[09:42:01] [Server thread/INFO]: <--[HERE]
-[09:42:32] [Server thread/INFO]: SrLipord[/127.202.136.174:41605] logged in with entity id 132744 at (2340.839968919443, 81.0, -1043.7678911725598)
-[09:42:32] [Server thread/INFO]: SrLipord joined the game
-[09:42:33] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[09:44:24] [Server thread/INFO]: Villager class_1646['Unemployed'/132557, l='ServerLevel[world]', x=2324.07, y=76.50, z=-1132.52] died, message: 'Unemployed suffocated in a wall'
-[09:46:55] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
-[09:49:41] [Server thread/INFO]: Gathooo teleported to 1503.5 12.0 -1035.5 minecraft:overworld
-[09:50:20] [Server thread/INFO]: [Gathooo: Teleported Gathooo to SrLipord]
-[09:50:31] [Server thread/INFO]: Gathooo teleported to 1503.5 12.0 -1035.5 minecraft:overworld
-[09:51:27] [Server thread/INFO]: Gathooo teleported to 545.5 74.0 -512.5 minecraft:overworld
-[09:52:29] [Server thread/INFO]: Gathooo teleported to 1503.5 12.0 -1035.5 minecraft:overworld
-[09:55:43] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Gathooo]
-[09:57:48] [Server thread/INFO]: SrLipord teleported to 1478.5 7.0 -1004.5 minecraft:overworld
-[09:58:02] [Server thread/INFO]: Gathooo teleported to 1478.5 7.0 -1004.5 minecraft:overworld
-[09:59:15] [Server thread/INFO]: Gathooo teleported to 1503.5 12.0 -1035.5 minecraft:overworld
-[09:59:18] [Server thread/INFO]: SrLipord teleported to 1503.5 12.0 -1035.5 minecraft:overworld
-[10:03:15] [Server thread/INFO]: SrLipord teleported to 1049.5 84.0 -778.5 minecraft:overworld
-[10:03:21] [Server thread/INFO]: [SrLipord: Teleported SrLipord to Gathooo]
-[10:04:51] [Server thread/INFO]: SrLipord has made the advancement [The End?]
-[10:04:51] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[10:04:51] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[10:04:52] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[10:04:52] [Server thread/INFO]: Gathooo has made the advancement [The End?]
-[10:05:07] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[10:07:01] [Server thread/INFO]: SrLipord was killed by Ender Dragon using magic
-[10:07:05] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[10:07:20] [Server thread/INFO]: SrLipord lost connection: Disconnected
-[10:07:20] [Server thread/INFO]: SrLipord left the game
-[10:07:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[10:07:31] [Server thread/INFO]: <--[HERE]
-[10:09:21] [Server thread/INFO]: SrLipord[/127.202.136.174:41789] logged in with entity id 145665 at (1509.4838029851405, 9.0, -1036.514015985413)
-[10:09:21] [Server thread/INFO]: SrLipord joined the game
-[10:09:22] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[10:09:50] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[10:10:18] [Server thread/INFO]: Gathooo was doomed to fall
-[10:10:21] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[10:10:35] [Server thread/INFO]: Gathooo teleported to 7.5 60.0 16.5 minecraft:the_end
-[10:10:35] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[10:11:24] [Server thread/INFO]: SrLipord was doomed to fall by Ender Dragon
-[10:11:27] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[10:11:34] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[10:12:27] [Server thread/INFO]: Gathooo was doomed to fall
-[10:12:29] [Server thread/INFO]: SrLipord was doomed to fall
-[10:12:30] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[10:12:32] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[10:12:35] [Server thread/INFO]: Gathooo teleported to 7.5 61.0 -18.5 minecraft:the_end
-[10:12:36] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[10:12:37] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[10:13:33] [Server thread/INFO]: Gathooo was killed by [Intentional Game Design]
-[10:13:36] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[10:13:41] [Server thread/INFO]: Gathooo teleported to 9.5 60.0 0.5 minecraft:the_end
-[10:13:44] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[10:14:09] [Server thread/INFO]: Gathooo lost connection: Disconnected
-[10:14:09] [Server thread/INFO]: Gathooo left the game
-[10:14:22] [Server thread/INFO]: SrLipord lost connection: Disconnected
-[10:14:22] [Server thread/INFO]: SrLipord left the game
-[10:14:44] [Server thread/INFO]: Gathooo[/127.238.235.232:42381] logged in with entity id 147770 at (9.014070376618744, 60.0, 1.1490822538996328)
-[10:14:44] [Server thread/INFO]: Gathooo joined the game
-[10:14:46] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[10:15:09] [Server thread/INFO]: SrLipord[/127.202.136.174:45083] logged in with entity id 147868 at (-15.587708962489808, 58.0, -6.021157886097927)
-[10:15:09] [Server thread/INFO]: SrLipord joined the game
-[10:15:12] [Server thread/INFO]: [do_a_barrel_roll] Client of SrLipord accepted server config.
-[10:16:18] [Server thread/INFO]: SrLipord has reached the goal [You Need a Mint]
-[10:16:26] [Server thread/INFO]: SrLipord has made the advancement [Free the End]
-[10:17:40] [Server thread/INFO]: [do_a_barrel_roll] Client of Gathooo accepted server config.
-[10:19:21] [Server thread/INFO]: Gathooo lost connection: Disconnected
-[10:19:21] [Server thread/INFO]: Gathooo left the game
+[20:07:01] [main/INFO]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[20:07:04] [main/INFO]: Loaded 2321 recipes
+[20:07:04] [main/INFO]: Loaded 1861 advancements
+[20:07:04] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 77 translation keys
+[20:07:04] [main/INFO]: Applied 507 biome modifications to 167 of 168 new biomes in 25.20 ms
+[20:07:04] [Server thread/INFO]: Dispatching loading event for config easyanvils-server.toml
+[20:07:05] [Server thread/INFO]: Dispatching loading event for config easymagic-server.toml
+[20:07:05] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[20:07:05] [Server thread/INFO]: Loading properties
+[20:07:05] [Server thread/INFO]: Default game type: SURVIVAL
+[20:07:05] [Server thread/INFO]: Generating keypair
+[20:07:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:07:05] [Server thread/INFO]: Using epoll channel type
+[20:07:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:07:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:07:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:07:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:07:05] [Server thread/INFO]: Preparing level "world"
+[20:07:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:07:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:07:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:07:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:07:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:07:08] [Server thread/INFO]: Time elapsed: 1876 ms
+[20:07:08] [Server thread/INFO]: Done (2.885s)! For help, type "help"
+[20:07:08] [Server thread/WARN]: Dedicated server took 32.301 seconds to load
+[20:07:08] [Server thread/INFO]: [REI] ========================================
+[20:07:08] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for START.
+[20:07:08] [Server thread/INFO]: [REI] Plugins (3):
+[20:07:08] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[20:07:08] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[20:07:08] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[20:07:08] [Server thread/INFO]: [REI] ========================================
+[20:07:08] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for START in 2.172 ms, totaling 141.4 ms.
+[20:07:08] [Server thread/INFO]: [REI] ########################################
+[20:07:08] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for END.
+[20:07:08] [Server thread/INFO]: [REI] Plugins (3):
+[20:07:08] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[20:07:08] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[20:07:08] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[20:07:08] [Server thread/INFO]: [REI] ########################################
+[20:07:08] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for END in 922.3 μs, totaling 124.4 ms.
+[20:07:08] [Server thread/INFO]: Start loading plugin from Balm: net.blay09.mods.balm.fabric.compat.hudinfo.FabricJadeModCompat
+[20:07:08] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[20:07:08] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[20:07:08] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[20:07:08] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[20:07:08] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[20:07:08] [Server thread/INFO]: Start loading plugin from Polymer (Core): eu.pb4.polymer.core.impl.client.compat.JadeCompatibility
+[20:07:08] [Server thread/INFO]: Start loading plugin from Waystones: net.blay09.mods.waystones.compat.JadeIntegration
+[20:07:08] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
+[20:07:08] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@1c5c7091 for service interface journeymap.api.services.ClientPlatformService
+[20:07:08] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@3de2fdf9 for service interface journeymap.api.services.CommonPlatformService
+[20:08:08] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:10:00] [Server thread/INFO]: Jhoec[/127.182.93.252:44769] logged in with entity id 50 at (643.5, 85.0, -477.5)
+[20:10:00] [Server thread/INFO]: Jhoec joined the game
+[20:10:18] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
+[20:12:25] [Server thread/INFO]: Jhoec lost connection: Disconnected
+[20:12:25] [Server thread/INFO]: Jhoec left the game
+[20:13:25] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:15:06] [Server thread/INFO]: Jhoec[/127.182.93.252:56551] logged in with entity id 1288 at (477.2334053331696, 65.0, -434.2705549271442)
+[20:15:06] [Server thread/INFO]: Jhoec joined the game
+[20:15:07] [Server thread/INFO]: [do_a_barrel_roll] Client of Jhoec accepted server config.
+[20:17:34] [Server thread/INFO]: Jhoec fell from a high place
+[20:17:41] [Server thread/INFO]: Jhoec lost connection: Disconnected
+[20:17:41] [Server thread/INFO]: Jhoec left the game
+[20:18:41] [Server thread/INFO]: Server empty for 60 seconds, pausing
